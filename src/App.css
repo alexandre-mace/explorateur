@@ -55,7 +55,7 @@ legend {
     transition: background .2s,transform .2s,-webkit-background .2s,-webkit-transform .2s;
 }
 .climate-lab-link:hover {
-    background-color: #ececec;
+    background-color: #e5e9ff;
 }
 .climate-lab {
     -webkit-box-flex: 0;
