@@ -1,4 +1,6 @@
-function getOwidDataJson(owidData, year, country) {
+import owidData from '../../dataset/sector/ghg-emissions-by-sector-211121.json'
+
+function getOwidDataJson(year, country) {
     let data = [];
     let years = Array.from(new Set(owidData.map(data => data.Year.toString())));
     let countries = Array.from(new Set(owidData.map(data => data.Entity)));

@@ -2,11 +2,11 @@ import React, { useRef } from 'react';
 import Highcharts from 'highcharts';
 import HighchartsReact from 'highcharts-react-official';
 import highcharts3d from "highcharts/highcharts-3d";
-import ghgEmissionsBySectorData from "../data/dataset/sector/ghg-emissions-by-sector-211121.json";
-import getOwidDataJson from "../data/adapter/owid/getOwidDataJson";
 import FormControl from '@mui/material/FormControl';
 import {Autocomplete, TextField} from "@mui/material";
 import useWindowDimensions from "../../utils/useWindowDimensions";
+import getGhgBySector from "../data/adapter/getGhgBySector";
+import getOwidDataJson from "../data/adapter/owid/getOwidDataJson";
 
 
 highcharts3d(Highcharts);
@@ -105,26 +105,16 @@ const mobileOptions = {
 const GhgEmissionsBySector = (props) => {
     const chartComponentRef = useRef(null);
     const [CO2EmissionsBySectorDatasets, setCO2EmissionsBySectorDatasets] = React.useState(null)
-    const [year, setYear] = React.useState('2016')
-    const [country, setCountry] = React.useState('World')
+    const [year, setYear] = React.useState('2018')
+    const [country, setCountry] = React.useState('Monde')
     const {width} = useWindowDimensions();
 
     React.useLayoutEffect(() => {
-        let data = getOwidDataJson(
-            ghgEmissionsBySectorData,
-            year,
-            country
-        );
-        setCO2EmissionsBySectorDatasets(data)
+        setCO2EmissionsBySectorDatasets(getGhgBySector(country, year))
     }, [])
 
     React.useEffect(() => {
-        let data = getOwidDataJson(
-            ghgEmissionsBySectorData,
-            year,
-            country
-        );
-        setCO2EmissionsBySectorDatasets(data)
+        setCO2EmissionsBySectorDatasets(getGhgBySector(country, year))
     }, [year, country])
 
     const handleYearChange = (value) => {
@@ -139,14 +129,10 @@ const GhgEmissionsBySector = (props) => {
         }
     }
 
+    console.log(CO2EmissionsBySectorDatasets)
+
     return (
         <div className={"container"}>
-            <div className="row mb-4">
-                <div className="col text-center">
-                    <h2>GHG (CO2eq) Emissions by sector</h2>
-                </div>
-            </div>
-
             {CO2EmissionsBySectorDatasets === null &&
             <div className="row">
                 <div className="col text-center">
@@ -157,19 +143,8 @@ const GhgEmissionsBySector = (props) => {
 
             {CO2EmissionsBySectorDatasets !== null &&
                 <>
-                    <div className="row mb-2">
-                        <div className="col text-center">
-                            <FormControl sx={{ minWidth: 300, maxWidth: 400, marginBottom: 2 }}>
-                                <Autocomplete
-                                    disablePortal
-                                    id="year-box"
-                                    options={CO2EmissionsBySectorDatasets.years}
-                                    value={year}
-                                    onChange={handleYearChange}
-                                    sx={{ width: 300 }}
-                                    renderInput={(params) => <TextField {...params} label="Year" />}
-                                />
-                            </FormControl>
+                    <div className="row pb-4 justify-content-center">
+                        <div className="col-auto">
                             <FormControl sx={{ minWidth: 300, maxWidth: 400 }}>
                                 <Autocomplete
                                     disablePortal
@@ -179,12 +154,29 @@ const GhgEmissionsBySector = (props) => {
                                     value={country}
                                     onChange={handleCountryChange}
                                     sx={{ width: 300 }}
-                                    renderInput={(params) => <TextField {...params} label="Country" />}
+                                    renderInput={(params) => <TextField {...params} label={"Pays"} />}
+                                />
+                            </FormControl>
+                            <FormControl sx={{ minWidth: 300, maxWidth: 400, marginBottom: 2 }}>
+                                <Autocomplete
+                                    disablePortal
+                                    id="year-box"
+                                    options={CO2EmissionsBySectorDatasets.years}
+                                    value={year}
+                                    onChange={handleYearChange}
+                                    sx={{ width: 300 }}
+                                    renderInput={(params) => <TextField {...params} label={"Année"} />}
                                 />
                             </FormControl>
                         </div>
                     </div>
-                    <div className="row">
+                    <div className="row mb-3">
+                        <div className="col">
+                            <h3>Émissions de GES (CO2eq) par secteur</h3>
+                        </div>
+                    </div>
+
+                    <div className="row my-3">
                         <div className="col">
                             <HighchartsReact
                                 highcharts={Highcharts}
@@ -198,7 +190,7 @@ const GhgEmissionsBySector = (props) => {
                         </div>
                     </div>
                     <div className="row">
-                        <div className="col">
+                        <div className="col text-center">
                             <a href="https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=All%20Selected&page=1">Sources (CAIT)</a>
                         </div>
                     </div>
