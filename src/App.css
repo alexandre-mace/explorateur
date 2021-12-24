@@ -1,15 +1,95 @@
 body {
     padding: 15px;
-    background: #EEF1FB;
-}
-.settings-wrapper {
     background: white;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    border-radius: 12px;
-    box-shadow: rgba(0, 0, 0, 0.07) 0px 20px 30px;
+    font-weight: 500;
 }
+body * {
+    font-family: 'Satoshi', sans-serif !important;
+}
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+footer a {
+    text-decoration: none;
+    color: inherit;
+}
+h1 {
+    font-weight: 900;
+    font-size: calc(22px + 2vw);
+}
+.presentation h2 {
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin-top: .2rem;
+    max-width: 700px;
+}
+/*.settings-wrapper {*/
+/*    background: white;*/
+/*    padding-top: 1rem;*/
+/*    padding-bottom: 1rem;*/
+/*    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;*/
+/*}*/
+/*.chart-related-settings {*/
+/*    background-color: white;*/
+/*    padding-top: 1rem;*/
+/*    padding-bottom: 1rem;*/
+/*    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;*/
+/*}*/
 .chart-wrapper {
-    height: calc(80vh - 2rem);
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+.MuiOutlinedInput-input {
+    font-size: 1.1rem !important;
+    font-weight: bold !important;
+}
+
+.sources {
+    color: #818080;
+}
+
+.MuiInputLabel-root {
+    font-size: 1.1rem !important;
+}
+legend {
+    font-size: 0.8rem !important;
+}
+
+.climate-lab-link {
+    padding: 8px 16px;
     border-radius: 16px;
+    -webkit-transition: -webkit-background .2s,-webkit-transform .2s;
+    transition: -webkit-background .2s,-webkit-transform .2s;
+    transition: background .2s,transform .2s;
+    transition: background .2s,transform .2s,-webkit-background .2s,-webkit-transform .2s;
+}
+.climate-lab-link:hover {
+    background-color: #ececec;
+}
+.climate-lab {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: auto;
+    max-width: 100%;
+}
+@media (max-width: 700px) {
+    .app-title {
+        display: none !important;
+    }
+
+    .climate-lab {
+        font-size: 0.8rem;
+        margin: auto;
+    }
+
+    .climate-lab > div {
+        margin-right: 0 !important;
+    }
+
+    .climate-lab-link {
+        padding: 6px 12px;
+    }
 }

@@ -102,7 +102,7 @@ const mobileOptions = {
 
 
 
-const GhgEmissionsBySector = (props) => {
+const Co2AtmosphericConcentration = (props) => {
     const chartComponentRef = useRef(null);
     const [CO2EmissionsBySectorDatasets, setCO2EmissionsBySectorDatasets] = React.useState(null)
     const [year, setYear] = React.useState('2016')
@@ -208,4 +208,4 @@ const GhgEmissionsBySector = (props) => {
     )
 }
 
-export default GhgEmissionsBySector;
+export default Co2AtmosphericConcentration;
