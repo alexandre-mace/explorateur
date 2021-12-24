@@ -63,7 +63,7 @@ function App() {
           <div className="container mt-5 mb-3">
               <div className="row align-items-center h-100">
                   <div className="col-12 col-md-6 pl-md-0 pr-md-2 settings-wrapper">
-                      <FormControl sx={{ width: '100%' }}>
+                      <FormControl sx={{ width: '100%', background: 'white' }}>
                           <Autocomplete
                               disablePortal
                               id="year-box"
@@ -76,7 +76,7 @@ function App() {
                       </FormControl>
                   </div>
                   <div className="col-12 col-md-6 pr-md-0 pl-md-2">
-                      <FormControl sx={{ width: '100%' }}>
+                      <FormControl sx={{ width: '100%', background: 'white' }}>
                           <Autocomplete
                               disablePortal
                               id="country-box"
