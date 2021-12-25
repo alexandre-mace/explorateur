@@ -6,105 +6,22 @@ import FormControl from '@mui/material/FormControl';
 import {Autocomplete, TextField} from "@mui/material";
 import useWindowDimensions from "../../utils/useWindowDimensions";
 import getGhgBySector from "../data/adapter/getGhgBySector";
+import {
+    mobilePieOptions, mobileStackedAreaOptions,
+    pieOptions,
+    stackedAreaOptions
+} from "../../options/chartOptions";
+import seriesLabel from 'highcharts/modules/series-label';
 
+seriesLabel(Highcharts);
 highcharts3d(Highcharts);
 
-const options = {
-    chart: {
-        plotBackgroundColor: null,
-        plotBorderWidth: null,
-        backgroundColor: null,
-        plotShadow: false,
-        options3d: {
-            enabled: true,
-            alpha: 45,
-            beta: 0
-        }
-    },
-    title: {
-        text: ''
-    },
-    plotOptions: {
-        pie: {
-            size:'130%',
-            allowPointSelect: true,
-            slicedOffset: 40,
-            cursor: 'pointer',
-            depth: 35,
-            dataLabels: {
-                style: {
-                    fontSize: '16px',
-                    fontWeight: "normal"
-                },
-                enabled: true,
-                format: '<b>{point.name}</b>: {point.percentage:.1f} %'
-            }
-        }
-    },
-    series: [{
-        type: 'pie',
-        data: [],
-    }],
-    credits: {
-        enabled: false
-    },
-};
-
-const mobileOptions = {
-    chart: {
-        plotBackgroundColor: null,
-        plotBorderWidth: null,
-        backgroundColor: null,
-        plotShadow: false,
-        options3d: {
-            enabled: true,
-            alpha: 45,
-            beta: 0
-        }
-    },
-    title: {
-        text: ''
-    },
-    plotOptions: {
-        pie: {
-            allowPointSelect: true,
-            size:'150%',
-            cursor: 'pointer',
-            depth: 35,
-            dataLabels: {
-                style: {
-                    fontSize: '7px',
-                    fontWeight: "normal"
-                },
-                enabled: false,
-                format: '<b>{point.name}</b>: {point.percentage:.1f} %'
-            },
-            legend: {
-                align: 'center',
-                layout: 'vertical',
-                verticalAlign: 'top',
-                x: 40,
-                y: 0,
-            },
-            showInLegend: true
-        }
-    },
-    series: [{
-        type: 'pie',
-        data: []
-    }],
-    credits: {
-        enabled: false
-    },
-};
-
-
-
 const GhgEmissionsBySector = (props) => {
-    const chartComponentRef = useRef(null);
+    // const chartComponentRef = useRef(null);
     const [CO2EmissionsBySectorDatasets, setCO2EmissionsBySectorDatasets] = React.useState(null)
     const [year, setYear] = React.useState('2018')
     const [country, setCountry] = React.useState('Monde')
+    const [chart, setChart] = React.useState('pie')
     const {width} = useWindowDimensions();
 
     React.useLayoutEffect(() => {
@@ -112,8 +29,8 @@ const GhgEmissionsBySector = (props) => {
     }, [])
 
     React.useEffect(() => {
-        setCO2EmissionsBySectorDatasets(getGhgBySector(country, year))
-    }, [year, country])
+        setCO2EmissionsBySectorDatasets(getGhgBySector(country, (chart !== 'pie' ? null : year)))
+    }, [year, country, chart])
 
     const handleYearChange = (value) => {
         if (value.target.innerText !== undefined) {
@@ -127,19 +44,42 @@ const GhgEmissionsBySector = (props) => {
         }
     }
 
+    const getOptions = (chart) => {
+        if (chart === 'pie') {
+            return width > 500 ? pieOptions : mobilePieOptions
+        }
+        if (chart === 'area') {
+            return width > 500 ? stackedAreaOptions : mobileStackedAreaOptions
+        }
+    }
+
+    function compare(a, b) {
+        if (typeof a.data === 'undefined') {
+            return 0
+        }
+
+        if (a.data[a.data.length - 1] < b.data[b.data.length - 1]){
+            return 1;
+        }
+        if (a.data[a.data.length - 1] > b.data[b.data.length - 1]){
+            return -1;
+        }
+        return 0;
+    }
+
     return (
         <>
             {CO2EmissionsBySectorDatasets === null &&
-            <div className="row">
-                <div className="col text-center">
-                    'Chargement...'
+                <div className="row">
+                    <div className="col text-center">
+                        'Chargement...'
+                    </div>
                 </div>
-            </div>
             }
 
             {CO2EmissionsBySectorDatasets !== null &&
                 <>
-                    <div className="row pb-4 pt-2 justify-content-center">
+                    <div className="row pb-4 pt-2 justify-content-between">
                         <div className="col-auto chart-related-settings">
                             <FormControl sx={{ minWidth: 200, maxWidth: 400, marginRight: 1 }}>
                                 <Autocomplete
@@ -153,31 +93,61 @@ const GhgEmissionsBySector = (props) => {
                                     renderInput={(params) => <TextField {...params} label={"Pays"} />}
                                 />
                             </FormControl>
-                            <FormControl sx={{ minWidth: 200, maxWidth: 400, marginLeft: 1 }}>
-                                <Autocomplete
-                                    disablePortal
-                                    id="year-box"
-                                    options={CO2EmissionsBySectorDatasets.years}
-                                    value={year}
-                                    onChange={handleYearChange}
-                                    sx={{ width: 250 }}
-                                    renderInput={(params) => <TextField {...params} label={"Année"} />}
-                                />
-                            </FormControl>
+                            {chart !== 'area' &&
+                                <FormControl sx={{ minWidth: 200, maxWidth: 400, marginLeft: 1 }}>
+                                    <Autocomplete
+                                        disablePortal
+                                        id="year-box"
+                                        options={CO2EmissionsBySectorDatasets.years}
+                                        value={year}
+                                        onChange={handleYearChange}
+                                        sx={{ width: 250 }}
+                                        renderInput={(params) => <TextField {...params} label={"Année"} />}
+                                    />
+                                </FormControl>
+                            }
+                        </div>
+                        <div className="col-auto">
+                            <div onClick={() => setChart('pie')}>pie</div>
+                            <div onClick={() => setChart('area')}>stacked</div>
                         </div>
                     </div>
 
                     <div className="row">
                         <div className="col">
-                            <HighchartsReact
-                                highcharts={Highcharts}
-                                options={{...(width > 500 ? options : mobileOptions), ...{series: [{
-                                            type: 'pie',
-                                            data: CO2EmissionsBySectorDatasets.data
-                                        }]}}}
-                                ref={chartComponentRef}
-                                {...props}
-                            />
+                            {chart === 'pie' &&
+                                <HighchartsReact
+                                    highcharts={Highcharts}
+                                    options={{...(getOptions(chart)), ...{series: [{
+                                                type: chart,
+                                                data: CO2EmissionsBySectorDatasets.data
+                                            }]}}}
+                                    {...props}
+                                />
+                            }
+                            {chart === 'area' &&
+                                <HighchartsReact
+                                    highcharts={Highcharts}
+                                    options={{
+                                        ...(getOptions(chart)),
+                                        ...{
+                                            xAxis: {
+                                                categories: [...CO2EmissionsBySectorDatasets.years].reverse(),
+                                                tickmarkPlacement: 'on',
+                                                title: {
+                                                    enabled: false
+                                                }
+                                            },
+                                            yAxis: {
+                                                title: {
+                                                    text: 'MtCO2eq'
+                                                },
+                                            },
+                                        },
+                                        ...{series: CO2EmissionsBySectorDatasets.data.sort(compare)}}}
+                                    {...props}
+                                />
+                            }
                         </div>
                     </div>
                     <div className="row">

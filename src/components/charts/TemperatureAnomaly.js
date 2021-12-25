@@ -2,20 +2,16 @@ import React from 'react';
 import Highcharts from 'highcharts';
 import HighchartsReact from 'highcharts-react-official';
 import useWindowDimensions from "../../utils/useWindowDimensions";
-import getCo2Concentration from "../data/adapter/getCo2Concentration";
 import {areaOptions, mobileAreaOptions} from "../../options/chartOptions";
+import getTemperatureAnomaly from "../data/adapter/getTemperatureAnomaly";
 
-const Co2AtmosphericConcentration = (props) => {
+const TemperatureAnomaly = (props) => {
     const [dataset, setDataset] = React.useState(null)
-    const [triggerChart, setTriggerChart] = React.useState(false)
     const {width} = useWindowDimensions();
 
     React.useLayoutEffect(() => {
-        let data = getCo2Concentration();
+        let data = getTemperatureAnomaly();
         setDataset(data)
-        setTimeout(() => {
-            setTriggerChart(true)
-        }, 10)
     }, [])
 
     return (
@@ -37,17 +33,16 @@ const Co2AtmosphericConcentration = (props) => {
                             ...(width > 500 ? areaOptions : mobileAreaOptions),
                             ...{
                                 xAxis: {
-                                    categories: Array.from({length: 2018}, (_, i) => i + 1),
+                                    categories: dataset.dates,
                                     tickmarkPlacement: 'on',
                                     title: {
                                         enabled: false
-                                    }
+                                    },
                                 },
                                 yAxis: {
                                     title: {
-                                        text: 'MtCO2eq'
+                                        text: '°C'
                                     },
-                                    min: 250
                                 },
                             },
                             ...{series: dataset.data}
@@ -56,7 +51,7 @@ const Co2AtmosphericConcentration = (props) => {
                     />
                     <div className="row">
                         <div className="col text-center">
-                            <h4 className={"mt-2"}>Concentration atmosphérique de CO2</h4>
+                            <h4 className={"mt-2"}>Réchauffement climatique</h4>
                         </div>
                     </div>
                     <div className="row">
@@ -70,4 +65,4 @@ const Co2AtmosphericConcentration = (props) => {
     )
 }
 
-export default Co2AtmosphericConcentration;
+export default TemperatureAnomaly;

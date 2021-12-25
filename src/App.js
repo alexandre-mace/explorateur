@@ -4,20 +4,27 @@ import Co2AtmosphericConcentration from "./components/charts/Co2AtmosphericConce
 import React from "react";
 import FormControl from "@mui/material/FormControl";
 import {Autocomplete, createTheme, TextField, ThemeProvider} from "@mui/material";
-
-const AtmosphericConcentration = 'Concentration atmosphériques'
+import TemperatureAnomaly from "./components/charts/TemperatureAnomaly";
+const AtmosphericConcentration = 'Concentration atmosphérique'
 const GesEmissions = 'Émissions de GES (Gaz à effet de serre)'
+const ClimateChange = 'Changement climatique'
 const bySector = 'Par secteur'
+const co2 = 'CO2'
+const temperature = 'Température'
 
 const themes = [
     {
         'name': GesEmissions,
         'indicators': [bySector]
     },
-    // {
-    //     'name': AtmosphericConcentration,
-    //     'indicators': ['CO2']
-    // }
+    {
+        'name': AtmosphericConcentration,
+        'indicators': [co2]
+    },
+    {
+        'name': ClimateChange,
+        'indicators': [temperature]
+    },
 ];
 
 
@@ -32,6 +39,10 @@ let customTheme = createTheme({
 function App() {
   const [theme, setTheme] = React.useState(GesEmissions)
   const [indicator, setIndicator] = React.useState(bySector)
+
+    React.useLayoutEffect(() => {
+        setIndicator(themes.find(datum => datum.name === theme).indicators[0])
+    }, [theme])
 
   return (
       <ThemeProvider theme={customTheme}>
@@ -102,8 +113,15 @@ function App() {
               }
               {theme === AtmosphericConcentration &&
                   <>
-                      {indicator === 'CO2' &&
-                          <AtmosphericConcentration/>
+                      {indicator === co2 &&
+                          <Co2AtmosphericConcentration/>
+                      }
+                  </>
+              }
+              {theme === ClimateChange &&
+                  <>
+                      {indicator === temperature &&
+                          <TemperatureAnomaly/>
                       }
                   </>
               }
