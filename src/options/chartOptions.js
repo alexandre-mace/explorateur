@@ -38,7 +38,7 @@ const pieOptions = {
         pie: {
             // size:'130%',
             allowPointSelect: true,
-            slicedOffset: 40,
+            slicedOffset: 30,
             cursor: 'pointer',
             depth: 35,
             dataLabels: {
@@ -84,7 +84,6 @@ const mobilePieOptions = {
         },
         pie: {
             allowPointSelect: true,
-            size:'150%',
             cursor: 'pointer',
             depth: 35,
             dataLabels: {

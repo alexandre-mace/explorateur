@@ -85,7 +85,7 @@ const GhgEmissionsBySector = (props) => {
                             {chart === 'pie' &&
                                 <HighchartsReact
                                     highcharts={Highcharts}
-                                    options={{...(getOptions(chart)), ...{series: [{
+                                    options={{...(getOptions(chart, width)), ...{series: [{
                                                 type: chart,
                                                 data: dataset.data
                                             }]}}}
