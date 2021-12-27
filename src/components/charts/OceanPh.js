@@ -60,7 +60,7 @@ const OceanPh = (props) => {
                             />
                         </div>
                     </div>
-                    <ChartTitle title={"Acidification de l\'océan"}/>
+                    <ChartTitle title={"Acidification de l'océan"}/>
                     <ChartSources
                         sourcesLink={"https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions"}
                         sourcesName={"OWID"}

@@ -44,8 +44,8 @@ const getCo2ByFuel = (country, year) => {
     if (country) {
         const countryData = data.filter(datum =>
             (
-                (countries.getName(datum.Code, "fr", {select: "official"}) === country) ||
-                ((country === 'Monde' && datum.Code === 'WORLD') || (country === 'Monde' && datum.Code === 'OWID_WRL')) &&
+                ((countries.getName(datum.Code, "fr", {select: "official"}) === country) ||
+                ((country === 'Monde' && datum.Code === 'WORLD') || (country === 'Monde' && datum.Code === 'OWID_WRL'))) &&
                 parseInt(datum.Year) > 1830
             )
         )

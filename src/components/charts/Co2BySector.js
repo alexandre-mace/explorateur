@@ -14,7 +14,6 @@ import ChartTypes from "../ChartTypes";
 import sortToLowest from "../../utils/sortToLowest";
 import ChartTitle from "../ChartTitle";
 import ChartSources from "../ChartSources";
-import getGhgEmissionsBySectorPerCapita from "../../data/adapter/getGhgEmissionsBySectorPerCapita";
 import getCo2BySector from "../../data/adapter/getCo2BySector";
 
 seriesLabel(Highcharts);
