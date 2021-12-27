@@ -5,32 +5,59 @@ import React from "react";
 import FormControl from "@mui/material/FormControl";
 import {Autocomplete, createTheme, TextField, ThemeProvider} from "@mui/material";
 import TemperatureAnomaly from "./components/charts/TemperatureAnomaly";
-import Co2BySource from "./components/charts/Co2BySource";
-const AtmosphericConcentration = 'Concentration atmosphérique'
+import Co2ByFuel from "./components/charts/Co2ByFuel";
+import Co2ConsumptionPerCountry from "./components/charts/Co2ConsumptionPerCountry";
+import Co2ConsumptionPerCapita from "./components/charts/Co2ConsumptionPerCapita";
+import GhgEmissionsPerCountry from "./components/charts/GhgEmissionsPerCountry";
+import GhgEmissionsPerCapita from "./components/charts/GhgEmissionsPerCapita";
+import GhgEmissionsByGas from "./components/charts/GhgEmissionsByGas";
+import GhgEmissionsBySectorPerCapita from "./components/charts/GhgEmissionsBySectorPerCapita";
+import Co2BySector from "./components/charts/Co2BySector";
+import Ch4EmissionsBySector from "./components/charts/Ch4EmissionsBySector";
+import NitrousOxideEmissionsBySector from "./components/charts/NitrousOxideBySector";
+import SeaLevelRise from "./components/charts/SeaLevelRise";
+import OceanPh from "./components/charts/OceanPh";
+import IceSheetsMass from "./components/charts/IceSheetsMass";
+const co2AtmosphericConcentration = 'Concentration atmosphérique de CO2'
 const GesEmissions = 'Émissions de GES (Gaz à effet de serre)'
 const Co2Emissions = 'Émissions de CO2'
+const Ch4Emissions = 'Émissions de Méthane'
+const NitrousOxydeEmissions = 'Émissions de Protoxyde d\'azote'
 const ClimateChange = 'Changement climatique'
 const bySector = 'Par secteur'
-const bySource = 'Par source'
-const co2 = 'CO2'
+const byFuel = 'Par carburant'
+const byGaz = 'Par gaz'
+const ghgEmissionsByGaz = 'Émissions de GES (Gaz à effet de serre) par gaz'
+const byCountry = 'Par pays'
+const perCapita = 'Par personne'
+const bySectorPerCapita = 'Par secteur et par personne'
 const temperature = 'Température'
+const seaLevelRise = 'Montée du niveau de la mer'
+const oceanPh = 'Acidification de l\'océan'
+const byCountryConsumptionAdjusted = 'Par pays (ajusté par la consommation)'
+const perCapitaConsumptionAdjusted = 'Par personne (ajusté par la consommation)'
+const iceSheetsMass = 'Modification de la masse des calottes glaciaires'
 
 const themes = [
     {
         'name': GesEmissions,
-        'indicators': [bySector]
+        'indicators': [bySector, bySectorPerCapita, byCountry, perCapita, byGaz]
     },
     {
         'name': Co2Emissions,
-        'indicators': [bySource]
+        'indicators': [bySector, byFuel, byCountryConsumptionAdjusted, perCapitaConsumptionAdjusted]
     },
     {
-        'name': AtmosphericConcentration,
-        'indicators': [co2]
+        'name': Ch4Emissions,
+        'indicators': [bySector]
+    },
+    {
+        'name': NitrousOxydeEmissions,
+        'indicators': [bySector]
     },
     {
         'name': ClimateChange,
-        'indicators': [temperature]
+        'indicators': [temperature, seaLevelRise, oceanPh, ghgEmissionsByGaz, co2AtmosphericConcentration, iceSheetsMass]
     },
 ];
 
@@ -42,6 +69,10 @@ let customTheme = createTheme({
         }
     },
 });
+
+let missingCharts = [
+    'Per capita CO₂ emissions by fuel type, 2019', // by fuel type
+]
 
 function App() {
   const [theme, setTheme] = React.useState(GesEmissions)
@@ -116,19 +147,47 @@ function App() {
                       {indicator === bySector &&
                           <GhgEmissionsBySector/>
                       }
+                      {indicator === bySectorPerCapita &&
+                          <GhgEmissionsBySectorPerCapita/>
+                      }
+                      {indicator === byCountry &&
+                          <GhgEmissionsPerCountry/>
+                      }
+                      {indicator === perCapita &&
+                          <GhgEmissionsPerCapita/>
+                      }
+                      {indicator === byGaz &&
+                          <GhgEmissionsByGas/>
+                      }
                   </>
               }
               {theme === Co2Emissions &&
                   <>
-                      {indicator === bySource &&
-                          <Co2BySource/>
+                      {indicator === byFuel &&
+                          <Co2ByFuel/>
+                      }
+                      {indicator === bySector &&
+                          <Co2BySector/>
+                      }
+                      {indicator === byCountryConsumptionAdjusted &&
+                          <Co2ConsumptionPerCountry/>
+                      }
+                      {indicator === perCapitaConsumptionAdjusted &&
+                          <Co2ConsumptionPerCapita/>
                       }
                   </>
               }
-              {theme === AtmosphericConcentration &&
+              {theme === Ch4Emissions &&
                   <>
-                      {indicator === co2 &&
-                          <Co2AtmosphericConcentration/>
+                      {indicator === bySector &&
+                          <Ch4EmissionsBySector/>
+                      }
+                  </>
+              }
+              {theme === NitrousOxydeEmissions &&
+                  <>
+                      {indicator === bySector &&
+                          <NitrousOxideEmissionsBySector/>
                       }
                   </>
               }
@@ -136,6 +195,21 @@ function App() {
                   <>
                       {indicator === temperature &&
                           <TemperatureAnomaly/>
+                      }
+                      {indicator === seaLevelRise &&
+                          <SeaLevelRise/>
+                      }
+                      {indicator === oceanPh &&
+                          <OceanPh/>
+                      }
+                      {indicator === ghgEmissionsByGaz &&
+                          <GhgEmissionsByGas/>
+                      }
+                      {indicator === co2AtmosphericConcentration &&
+                          <Co2AtmosphericConcentration/>
+                      }
+                      {indicator === iceSheetsMass &&
+                          <IceSheetsMass/>
                       }
                   </>
               }

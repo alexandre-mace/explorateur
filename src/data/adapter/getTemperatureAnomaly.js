@@ -1,4 +1,4 @@
-import data from "../dataset/climate-change/climate-change.json";
+import data from "../dataset/climate-change/temperature-anomaly.json";
 
 const getTemperatureAnomaly = () => {
     const chartData = data.map(datum => datum['temperature_anomaly'])

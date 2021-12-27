@@ -246,12 +246,164 @@ const mobileAreaOptions = {
     },
 };
 
+const lineOptions = {
+    colors: colors,
+    chart: {
+        type: 'line',
+        options3d: {
+            enabled: false,
+        },
+    },
+    title: {
+        text: ''
+    },
+    plotOptions: {
+        line: {
+            marker: {
+                enabled: false,
+                symbol: 'circle',
+            },
+            label: {
+                enabled: true,
+                style: {
+                    fontWeight: 500,
+                    color: 'black'
+                }
+            }
+        },
+        series: {
+            animation: {
+                duration: 600
+            }
+        }
+    },
+    // series: [],
+    // credits: {
+    //     enabled: false
+    // },
+};
+
+const mobileLineOptions = {
+    colors: colors,
+    chart: {
+        options3d: {
+            enabled: false,
+        }
+    },
+    title: {
+        text: ''
+    },
+    plotOptions: {
+        series: {
+            animation: {
+                duration: 600
+            }
+        }
+    },
+
+    credits: {
+        enabled: false
+    },
+};
+
+const packedBubleOptions = {
+    colors: colors,
+    chart: {
+        plotBackgroundColor: null,
+        plotBorderWidth: null,
+        backgroundColor: null,
+        plotShadow: false,
+        options3d: {
+            enabled: false,
+        }
+    },
+    title: {
+        text: ''
+    },
+    plotOptions: {
+        series: {
+            animation: {
+                duration: 600
+            }
+        },
+        packedbubble: {
+            dataLabels: {
+                style: {
+                    fontSize: '14px',
+                    fontWeight: "500"
+                },
+                enabled: true,
+                format: '{point.name}'
+            }
+        }
+    },
+    series: [{
+        type: 'packedbubble',
+        data: [],
+    }],
+    credits: {
+        enabled: false
+    },
+};
+
+const mobilePackedBubbleOptions = {
+    colors: colors,
+    chart: {
+        options3d: {
+            enabled: false,
+        }
+    },
+    title: {
+        text: ''
+    },
+    plotOptions: {
+        series: {
+            animation: {
+                duration: 600
+            }
+        },
+        packedbubble: {
+            cursor: 'pointer',
+            dataLabels: {
+                style: {
+                    fontSize: '7px',
+                    fontWeight: "normal"
+                },
+                enabled: false,
+                format: '<b>{point.name}</b>: {point.percentage:.1f} %'
+            },
+            legend: {
+                enabled: false,
+                align: 'center',
+                layout: 'vertical',
+                verticalAlign: 'top',
+                x: 40,
+                y: 0,
+            },
+            showInLegend: true
+        }
+    },
+    series: [{
+        type: 'packedbubble',
+        data: []
+    }],
+    credits: {
+        enabled: false
+    },
+};
+
 const getOptions = (chart, width) => {
     if (chart === 'pie') {
         return width > 500 ? pieOptions : mobilePieOptions
     }
     if (chart === 'area') {
         return width > 500 ? stackedAreaOptions : mobileStackedAreaOptions
+    }
+    if (chart === 'line') {
+        return width > 500 ? lineOptions : mobileLineOptions
+    }
+    if (chart === 'packedbubble') {
+        return width > 500 ? packedBubleOptions : mobilePackedBubbleOptions
     }
 }
 
@@ -262,5 +414,7 @@ export {
     mobileStackedAreaOptions,
     areaOptions,
     mobileAreaOptions,
+    lineOptions,
+    mobileLineOptions,
     getOptions
 }

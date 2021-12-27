@@ -1,0 +1,7072 @@
+[
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-04-16",
+    "land_ice_mass": 0,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-05-08",
+    "land_ice_mass": 19480000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-08-14",
+    "land_ice_mass": -58910000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-09-16",
+    "land_ice_mass": 47160000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-10-15",
+    "land_ice_mass": 63420000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-11-13",
+    "land_ice_mass": -67410000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-12-16",
+    "land_ice_mass": -49020000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-01-15",
+    "land_ice_mass": -48420000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-02-13",
+    "land_ice_mass": -199360000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-03-14",
+    "land_ice_mass": -170580000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-04-16",
+    "land_ice_mass": -43240000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-05-12",
+    "land_ice_mass": 790000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-07-16",
+    "land_ice_mass": -127980000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-08-14",
+    "land_ice_mass": -121670000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-09-16",
+    "land_ice_mass": -130280000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-10-15",
+    "land_ice_mass": -47470000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-11-13",
+    "land_ice_mass": -106660000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-12-16",
+    "land_ice_mass": -272180000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-01-08",
+    "land_ice_mass": -329200000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-02-17",
+    "land_ice_mass": -491310000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-03-17",
+    "land_ice_mass": -340300000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-04-15",
+    "land_ice_mass": -386050000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-05-14",
+    "land_ice_mass": -155490000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-06-16",
+    "land_ice_mass": -187950000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-07-15",
+    "land_ice_mass": -313330000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-08-13",
+    "land_ice_mass": -165840000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-09-15",
+    "land_ice_mass": -160770000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-10-14",
+    "land_ice_mass": -85930000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-11-12",
+    "land_ice_mass": -226000000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-12-15",
+    "land_ice_mass": -305460000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-01-15",
+    "land_ice_mass": -393930000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-02-13",
+    "land_ice_mass": -454970000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-03-14",
+    "land_ice_mass": -405230000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-04-16",
+    "land_ice_mass": -251370000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-05-15",
+    "land_ice_mass": -228440000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-06-17",
+    "land_ice_mass": -203530000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-07-16",
+    "land_ice_mass": -158730000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-08-14",
+    "land_ice_mass": -208900000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-09-16",
+    "land_ice_mass": -112400000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-10-15",
+    "land_ice_mass": -105470000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-11-13",
+    "land_ice_mass": -58460000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-12-16",
+    "land_ice_mass": -159090000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-01-15",
+    "land_ice_mass": -224740000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-02-13",
+    "land_ice_mass": -317940000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-03-14",
+    "land_ice_mass": -182870000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-04-16",
+    "land_ice_mass": -158200000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-05-15",
+    "land_ice_mass": -80910000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-06-13",
+    "land_ice_mass": -48720000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-07-16",
+    "land_ice_mass": -98350000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-08-14",
+    "land_ice_mass": -8539999999.999999,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-09-16",
+    "land_ice_mass": -20020000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-10-15",
+    "land_ice_mass": -96060000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-11-13",
+    "land_ice_mass": -89300000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-12-16",
+    "land_ice_mass": -234200000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-01-15",
+    "land_ice_mass": -438790000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-02-13",
+    "land_ice_mass": -429590000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-03-14",
+    "land_ice_mass": -361060000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-04-16",
+    "land_ice_mass": -336290000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-05-15",
+    "land_ice_mass": -179530000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-06-13",
+    "land_ice_mass": -191340000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-07-16",
+    "land_ice_mass": -268110000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-08-14",
+    "land_ice_mass": -229940000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-09-16",
+    "land_ice_mass": -156770000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-10-15",
+    "land_ice_mass": -246670000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-11-13",
+    "land_ice_mass": -438390000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-12-16",
+    "land_ice_mass": -521240000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-01-15",
+    "land_ice_mass": -729640000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-02-13",
+    "land_ice_mass": -607590000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-03-17",
+    "land_ice_mass": -740760000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-04-15",
+    "land_ice_mass": -561680000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-05-14",
+    "land_ice_mass": -473580000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-06-16",
+    "land_ice_mass": -557790000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-07-15",
+    "land_ice_mass": -651460000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-08-13",
+    "land_ice_mass": -603250000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-09-15",
+    "land_ice_mass": -442260000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-10-14",
+    "land_ice_mass": -533130000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-11-12",
+    "land_ice_mass": -520470000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-12-15",
+    "land_ice_mass": -624260000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-01-15",
+    "land_ice_mass": -706630000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-02-13",
+    "land_ice_mass": -681110000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-03-14",
+    "land_ice_mass": -617100000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-04-16",
+    "land_ice_mass": -579960000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-05-15",
+    "land_ice_mass": -553680000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-06-17",
+    "land_ice_mass": -540140000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-07-16",
+    "land_ice_mass": -435790000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-08-14",
+    "land_ice_mass": -466540000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-09-16",
+    "land_ice_mass": -480080000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-10-15",
+    "land_ice_mass": -534990000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-11-13",
+    "land_ice_mass": -520870000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-12-16",
+    "land_ice_mass": -630910000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-01-15",
+    "land_ice_mass": -801770000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-02-13",
+    "land_ice_mass": -806650000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-03-14",
+    "land_ice_mass": -687350000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-04-16",
+    "land_ice_mass": -758910000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-05-15",
+    "land_ice_mass": -780450000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-06-13",
+    "land_ice_mass": -793280000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-07-16",
+    "land_ice_mass": -996930000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-08-14",
+    "land_ice_mass": -925890000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-09-16",
+    "land_ice_mass": -847390000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-10-15",
+    "land_ice_mass": -879090000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-11-13",
+    "land_ice_mass": -899520000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-12-13",
+    "land_ice_mass": -912110000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-02-17",
+    "land_ice_mass": -1001400000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-03-14",
+    "land_ice_mass": -1017220000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-04-16",
+    "land_ice_mass": -1029630000000.0001,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-05-15",
+    "land_ice_mass": -964410000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-07-16",
+    "land_ice_mass": -909930000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-08-14",
+    "land_ice_mass": -926280000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-09-16",
+    "land_ice_mass": -837980000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-10-15",
+    "land_ice_mass": -884180000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-10-30",
+    "land_ice_mass": -879890000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-01-01",
+    "land_ice_mass": -1147680000000,
+    "ice_mass_change": -1110087930000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-01-15",
+    "land_ice_mass": -1077869999999.9999,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-02-13",
+    "land_ice_mass": -1140700000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-03-17",
+    "land_ice_mass": -1118600000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-04-04",
+    "land_ice_mass": -1056140000000.0001,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-06-16",
+    "land_ice_mass": -1094260000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-07-15",
+    "land_ice_mass": -1061310000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-08-13",
+    "land_ice_mass": -982100000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-09-11",
+    "land_ice_mass": -946360000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-11-16",
+    "land_ice_mass": -1068300000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-12-15",
+    "land_ice_mass": -1117280000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-01-15",
+    "land_ice_mass": -1287440000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-02-13",
+    "land_ice_mass": -1395070000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-04-20",
+    "land_ice_mass": -1135150000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-05-15",
+    "land_ice_mass": -1238440000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-06-17",
+    "land_ice_mass": -1246580000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-07-16",
+    "land_ice_mass": -1208610000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-10-15",
+    "land_ice_mass": -1299130000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-11-13",
+    "land_ice_mass": -1347410000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-12-16",
+    "land_ice_mass": -1398000000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-01-08",
+    "land_ice_mass": -1504200000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-03-14",
+    "land_ice_mass": -1615970000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-04-16",
+    "land_ice_mass": -1535280000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-05-15",
+    "land_ice_mass": -1441750000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-06-13",
+    "land_ice_mass": -1484850000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-08-14",
+    "land_ice_mass": -1533500000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-09-16",
+    "land_ice_mass": -1360830000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-10-15",
+    "land_ice_mass": -1450290000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-11-17",
+    "land_ice_mass": -1525850000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-01-22",
+    "land_ice_mass": -1827360000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-02-13",
+    "land_ice_mass": -1903510000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-03-14",
+    "land_ice_mass": -1873220000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-04-16",
+    "land_ice_mass": -1851660000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-04-27",
+    "land_ice_mass": -1777770000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-07-13",
+    "land_ice_mass": -1743110000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-08-14",
+    "land_ice_mass": -1896930000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-09-12",
+    "land_ice_mass": -1849200000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-12-23",
+    "land_ice_mass": -1893450000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-01-15",
+    "land_ice_mass": -1916520000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-02-13",
+    "land_ice_mass": -1992840000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-03-17",
+    "land_ice_mass": -1928480000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-05-18",
+    "land_ice_mass": -1790890000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-06-16",
+    "land_ice_mass": -1774670000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-07-15",
+    "land_ice_mass": -1654520000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-08-21",
+    "land_ice_mass": -1600820000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-11-27",
+    "land_ice_mass": -1671060000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-12-22",
+    "land_ice_mass": -1585090000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2017-01-22",
+    "land_ice_mass": -1604800000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2017-04-02",
+    "land_ice_mass": -1929120000000,
+    "ice_mass_change": -2215556012000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2017-04-23",
+    "land_ice_mass": -1849020000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2017-05-12",
+    "land_ice_mass": -1814260000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2017-06-10",
+    "land_ice_mass": -1812560000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2018-06-13",
+    "land_ice_mass": -1982530000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2018-07-09",
+    "land_ice_mass": -1997660000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2018-10-30",
+    "land_ice_mass": -2256760000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2018-11-13",
+    "land_ice_mass": -2221660000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2018-12-16",
+    "land_ice_mass": -2274750000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2019-01-15",
+    "land_ice_mass": -2365490000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2019-02-13",
+    "land_ice_mass": -2408640000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2019-03-14",
+    "land_ice_mass": -2312660000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2019-04-16",
+    "land_ice_mass": -2132210000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2019-05-15",
+    "land_ice_mass": -2184590000000.0002,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2019-06-13",
+    "land_ice_mass": -2276780000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2019-07-16",
+    "land_ice_mass": -2181260000000.0002,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2019-08-14",
+    "land_ice_mass": -2226830000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2019-09-16",
+    "land_ice_mass": -2102500000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2019-10-15",
+    "land_ice_mass": -2285440000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2019-11-13",
+    "land_ice_mass": -2346330000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2019-12-16",
+    "land_ice_mass": -2392610000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2020-01-15",
+    "land_ice_mass": -2701780000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2020-02-13",
+    "land_ice_mass": -2807340000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2020-03-17",
+    "land_ice_mass": -2627620000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2020-04-15",
+    "land_ice_mass": -2535110000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2020-05-14",
+    "land_ice_mass": -2456720000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2020-06-16",
+    "land_ice_mass": -2424330000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2020-07-15",
+    "land_ice_mass": -2357150000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2020-08-13",
+    "land_ice_mass": -2249690000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2020-09-15",
+    "land_ice_mass": -2437630000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2020-10-14",
+    "land_ice_mass": -2537640000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2020-11-12",
+    "land_ice_mass": -2587650000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2020-12-15",
+    "land_ice_mass": -2746000000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1992-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 418310349600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1992-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 425377020700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1992-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 433552016300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1992-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 424496837000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1992-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 423362721400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1992-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 421461945200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1992-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 421236166000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1992-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 422960389400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1992-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 425363774100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1992-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 426962994900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1992-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 426032242100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1992-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": 427319792400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1993-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 430282060600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1993-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 434437388300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1993-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 437621881800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1993-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 440291581300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1993-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 440630711200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1993-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 436179977900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1993-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 429998314100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1993-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 421449581700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1993-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 412141435300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1993-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 400744887800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1993-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 390604041900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1993-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 381581179500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1994-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 371881452100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1994-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 359912082200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1994-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 349755624900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1994-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 339261113400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1994-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 329460366200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1994-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 320135423900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1994-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 310190015700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1994-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 299759948900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1994-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 289371626900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1994-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 277272230700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1994-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 265335971200.00003
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1994-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 253532698800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1995-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 242839127100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1995-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 234076396300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1995-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 229464308300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1995-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 225615283400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1995-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 224306430100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1995-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 223955090600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1995-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 222992262300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1995-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 220525910000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1995-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 218718991800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1995-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 216761300600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1995-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 212782569600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1995-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 209279469900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1996-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 205674407200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1996-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 202321354900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1996-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 199060166900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1996-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 197921199500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1996-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 198109823000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1996-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 199128938100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1996-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 199641567200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1996-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 200364142300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1996-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 200146243500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1996-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 195334683100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1996-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 189292752800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1996-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": 183488550000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1997-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 176892976800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1997-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 169808945000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1997-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 164783881000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1997-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 162826064300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1997-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 162486733700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1997-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 163198405800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1997-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 161910206300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1997-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 160584202300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1997-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 157841675100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1997-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 153336737900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1997-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 152099316000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1997-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 149187527200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1998-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 144585053300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1998-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 143409666100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1998-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 143841854500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1998-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 143559703200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1998-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 146456835800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1998-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 150921884700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1998-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 154369685800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1998-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 156981328800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1998-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 156892691200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1998-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 153069172100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1998-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 147958514700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1998-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 136336200400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1999-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 122156203800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1999-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 109848163500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1999-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 95785872170
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1999-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 86746963070
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1999-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 81166699840
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1999-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 77600145500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1999-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 73545108430
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1999-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 69506137460
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1999-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 66844150440.00001
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1999-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 60879596100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1999-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 55744518570
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "1999-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 48912618420
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2000-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 43431111920
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2000-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 39953342960
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2000-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 37019986400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2000-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 36650815460
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2000-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 36269091080
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2000-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 36043143810
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2000-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 34569065800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2000-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 32941382679.999996
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2000-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 31087645360
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2000-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 26033583290
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2000-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 23766449260
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2000-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": 19142114190
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2001-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 15163086680
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2001-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 9209344260
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2001-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 3833416427
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2001-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -830816845
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2001-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -4781646908
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2001-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -5436922237
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2001-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -4661606303
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2001-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -4785247242
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2001-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3909830499
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2001-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3586544331
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2001-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2975822934
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2001-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -4796329867
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -5816485268
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -6070271796
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -3557947930
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 0
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 2505454844
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 4684002920
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 1556012759
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1825231373
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -7216601624
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -14398885330
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -21541075800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2002-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -28674034670
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -34810499620
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -39808081670
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -43823033190
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -47338558660
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -50468763240
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -53804214750
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -58519718110
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -65664129380.00001
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -76505562680
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -90433606390
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -106006424800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2003-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -120115379300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -130819698899.99998
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -141883505300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -154094358800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -166272139800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -175332736800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -179085393500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -178837351500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -177087276800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -177721497300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -182389455400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -190521668200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2004-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": -200625038800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -209731427800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -218580778600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -228535405700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -238290263100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -243459101100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -242324125200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -238233189500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -233336337500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -228799914200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -226283735100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -225421729700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2005-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -225799524000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -226623443200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -227801727300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -230896931500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -234710825600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -238134135100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -241770341600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -245722700800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -252263826100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -262164127800.00003
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -275775189600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -291176178200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2006-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -306586545000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -321974330600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -339300574300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -357097318400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -371477160700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -384078152500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -397305966400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -410450729000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -425410825100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -443390067000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -464596068800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -486890758400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2007-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -508988553000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -529691743200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -550146604600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -570293724700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -587867251700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -601655199400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -611826822400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -619306283300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -626037554400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -631824698700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -637334401000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -641214983800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2008-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": -643584257100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -643570478900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -644706135800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -648951994000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -654494045200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -660089508600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -664548157900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -668826543000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -675152634300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -683605421800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -693370099100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -703489139800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2009-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -717055717200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -732719631900
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -751947478400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -774208028100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -796109341600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -817264834400
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -835866163700
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -854020208600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -872204692800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -891024051600
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -910252989800
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -929292513300
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2010-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -946974557200
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -962102407500
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -976849897000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -992943337100
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1009315989000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1025615734000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1039768540999.9999
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1049682223000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1057248893000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1064189652999.9999
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1072260170000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1083385831000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2011-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -1095772148000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1128530598000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1150634274000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1172299805000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1191335433000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1206808373000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1219483904000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1233993777000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -1249335493000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -1265404684000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -1283138617000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2012-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": -1301078408000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1319484688000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1340017651000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1362555631000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1383181805000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1402402575000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1419782437000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1436380334000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1456028665000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1479528989000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1507279595000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1536862701000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2013-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -1563641229000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1589236365000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1615542403000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1640405355000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1662236596000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1681703412000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1699066706000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1715660570000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1733418176000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1753411902000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1776309795000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1800602709000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2014-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -1824290089000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1850923637000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1878955925000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1908795752000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1938295306000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1965506626000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1987127972000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2006526625000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2024337057000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2041015874000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2057503924000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2075362310999.9998
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2015-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -2095747739999.9998
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2105760447000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2102529507000.0002
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2099298568000.0002
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2096283554000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2093268540000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2090253526000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2087238512000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2101496012000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -2115753511999.9998
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -2130011012000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -2144268512000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2016-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": -2158526011999.9998
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2017-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2172783512000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2017-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2187041012000.0002
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2017-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2201298512000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2017-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2229813512000
+  },
+  {
+    "Entity": "Antarctica",
+    "Code": "ATA",
+    "Day": "2017-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2244071012000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-04-16",
+    "land_ice_mass": 0,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-05-08",
+    "land_ice_mass": 67360000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-08-14",
+    "land_ice_mass": -219730000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-09-16",
+    "land_ice_mass": -242790000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-10-15",
+    "land_ice_mass": -207560000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-11-13",
+    "land_ice_mass": -210720000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-12-16",
+    "land_ice_mass": -193610000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-01-15",
+    "land_ice_mass": -147270000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-02-13",
+    "land_ice_mass": -156730000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-03-14",
+    "land_ice_mass": -91110000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-04-16",
+    "land_ice_mass": -45430000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-05-12",
+    "land_ice_mass": -38220000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-07-16",
+    "land_ice_mass": -215040000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-08-14",
+    "land_ice_mass": -350920000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-09-16",
+    "land_ice_mass": -393050000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-10-15",
+    "land_ice_mass": -390320000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-11-13",
+    "land_ice_mass": -393160000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-12-16",
+    "land_ice_mass": -352750000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-01-08",
+    "land_ice_mass": -376850000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-02-17",
+    "land_ice_mass": -383960000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-03-17",
+    "land_ice_mass": -361370000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-04-15",
+    "land_ice_mass": -299680000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-05-14",
+    "land_ice_mass": -315990000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-06-16",
+    "land_ice_mass": -335580000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-07-15",
+    "land_ice_mass": -432900000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-08-13",
+    "land_ice_mass": -557960000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-09-15",
+    "land_ice_mass": -598280000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-10-14",
+    "land_ice_mass": -617860000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-11-12",
+    "land_ice_mass": -575390000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-12-15",
+    "land_ice_mass": -551080000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-01-15",
+    "land_ice_mass": -565550000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-02-13",
+    "land_ice_mass": -543510000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-03-14",
+    "land_ice_mass": -497310000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-04-16",
+    "land_ice_mass": -490260000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-05-15",
+    "land_ice_mass": -452660000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-06-17",
+    "land_ice_mass": -500730000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-07-16",
+    "land_ice_mass": -630030000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-08-14",
+    "land_ice_mass": -819210000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-09-16",
+    "land_ice_mass": -885810000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-10-15",
+    "land_ice_mass": -875860000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-11-13",
+    "land_ice_mass": -873970000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-12-16",
+    "land_ice_mass": -824380000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-01-15",
+    "land_ice_mass": -847160000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-02-13",
+    "land_ice_mass": -799010000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-03-14",
+    "land_ice_mass": -777210000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-04-16",
+    "land_ice_mass": -802830000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-05-15",
+    "land_ice_mass": -791920000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-06-13",
+    "land_ice_mass": -803740000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-07-16",
+    "land_ice_mass": -889760000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-08-14",
+    "land_ice_mass": -1016690000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-09-16",
+    "land_ice_mass": -1077390000000.0001,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-10-15",
+    "land_ice_mass": -1064329999999.9999,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-11-13",
+    "land_ice_mass": -1092020000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-12-16",
+    "land_ice_mass": -1100830000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-01-15",
+    "land_ice_mass": -1067750000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-02-13",
+    "land_ice_mass": -1025730000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-03-14",
+    "land_ice_mass": -1035790000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-04-16",
+    "land_ice_mass": -1021010000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-05-15",
+    "land_ice_mass": -1009110000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-06-13",
+    "land_ice_mass": -1029180000000.0001,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-07-16",
+    "land_ice_mass": -1159400000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-08-14",
+    "land_ice_mass": -1356280000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-09-16",
+    "land_ice_mass": -1418890000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-10-15",
+    "land_ice_mass": -1445480000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-11-13",
+    "land_ice_mass": -1422460000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-12-16",
+    "land_ice_mass": -1362580000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-01-15",
+    "land_ice_mass": -1323400000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-02-13",
+    "land_ice_mass": -1342230000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-03-17",
+    "land_ice_mass": -1286540000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-04-15",
+    "land_ice_mass": -1306340000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-05-14",
+    "land_ice_mass": -1320230000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-06-16",
+    "land_ice_mass": -1323290000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-07-15",
+    "land_ice_mass": -1471460000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-08-13",
+    "land_ice_mass": -1631940000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-09-15",
+    "land_ice_mass": -1696880000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-10-14",
+    "land_ice_mass": -1685220000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-11-12",
+    "land_ice_mass": -1609540000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-12-15",
+    "land_ice_mass": -1538420000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-01-15",
+    "land_ice_mass": -1519060000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-02-13",
+    "land_ice_mass": -1564830000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-03-14",
+    "land_ice_mass": -1564610000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-04-16",
+    "land_ice_mass": -1544460000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-05-15",
+    "land_ice_mass": -1526970000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-06-17",
+    "land_ice_mass": -1535040000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-07-16",
+    "land_ice_mass": -1644760000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-08-14",
+    "land_ice_mass": -1854300000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-09-16",
+    "land_ice_mass": -1907630000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-10-15",
+    "land_ice_mass": -1880790000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-11-13",
+    "land_ice_mass": -1865610000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-12-16",
+    "land_ice_mass": -1841350000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-01-15",
+    "land_ice_mass": -1843340000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-02-13",
+    "land_ice_mass": -1824760000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-03-14",
+    "land_ice_mass": -1812990000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-04-16",
+    "land_ice_mass": -1834850000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-05-15",
+    "land_ice_mass": -1802460000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-06-13",
+    "land_ice_mass": -1909660000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-07-16",
+    "land_ice_mass": -2085889999999.9998,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-08-14",
+    "land_ice_mass": -2279750000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-09-16",
+    "land_ice_mass": -2377780000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-10-15",
+    "land_ice_mass": -2342030000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-11-13",
+    "land_ice_mass": -2360280000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-12-13",
+    "land_ice_mass": -2342160000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-02-17",
+    "land_ice_mass": -2320990000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-03-14",
+    "land_ice_mass": -2305180000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-04-16",
+    "land_ice_mass": -2300200000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-05-15",
+    "land_ice_mass": -2321030000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-07-16",
+    "land_ice_mass": -2511100000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-08-14",
+    "land_ice_mass": -2705170000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-09-16",
+    "land_ice_mass": -2761480000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-10-15",
+    "land_ice_mass": -2785220000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-10-30",
+    "land_ice_mass": -2784610000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-01-01",
+    "land_ice_mass": -2724130000000,
+    "ice_mass_change": -2236016208000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-01-15",
+    "land_ice_mass": -2734110000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-02-13",
+    "land_ice_mass": -2715610000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-03-17",
+    "land_ice_mass": -2668980000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-04-04",
+    "land_ice_mass": -2660260000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-06-16",
+    "land_ice_mass": -2687850000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-07-15",
+    "land_ice_mass": -2919260000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-08-13",
+    "land_ice_mass": -3229830000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-09-11",
+    "land_ice_mass": -3331600000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-11-16",
+    "land_ice_mass": -3265500000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-12-15",
+    "land_ice_mass": -3249920000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-01-15",
+    "land_ice_mass": -3247700000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-02-13",
+    "land_ice_mass": -3238280000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-04-20",
+    "land_ice_mass": -3235480000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-05-15",
+    "land_ice_mass": -3199400000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-06-17",
+    "land_ice_mass": -3182040000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-07-16",
+    "land_ice_mass": -3293790000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-10-15",
+    "land_ice_mass": -3357410000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-11-13",
+    "land_ice_mass": -3357090000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-12-16",
+    "land_ice_mass": -3346030000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-01-08",
+    "land_ice_mass": -3330830000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-03-14",
+    "land_ice_mass": -3277080000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-04-16",
+    "land_ice_mass": -3265700000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-05-15",
+    "land_ice_mass": -3266200000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-06-13",
+    "land_ice_mass": -3304760000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-08-14",
+    "land_ice_mass": -3588660000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-09-16",
+    "land_ice_mass": -3625930000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-10-15",
+    "land_ice_mass": -3610430000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-11-17",
+    "land_ice_mass": -3605960000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-01-22",
+    "land_ice_mass": -3521190000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-02-13",
+    "land_ice_mass": -3526160000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-03-14",
+    "land_ice_mass": -3481120000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-04-16",
+    "land_ice_mass": -3472050000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-04-27",
+    "land_ice_mass": -3469940000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-07-13",
+    "land_ice_mass": -3655340000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-08-14",
+    "land_ice_mass": -3791520000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-09-12",
+    "land_ice_mass": -3826580000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-12-23",
+    "land_ice_mass": -3769680000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-01-15",
+    "land_ice_mass": -3715200000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-02-13",
+    "land_ice_mass": -3737060000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-03-17",
+    "land_ice_mass": -3735750000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-05-18",
+    "land_ice_mass": -3703660000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-06-16",
+    "land_ice_mass": -3699960000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-07-15",
+    "land_ice_mass": -3873290000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-08-21",
+    "land_ice_mass": -4123670000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-11-27",
+    "land_ice_mass": -3999740000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-12-22",
+    "land_ice_mass": -4067390000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-01-22",
+    "land_ice_mass": -4014720000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-04-02",
+    "land_ice_mass": -4005260000000,
+    "ice_mass_change": -3456541253000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-04-23",
+    "land_ice_mass": -3971530000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-05-12",
+    "land_ice_mass": -3965310000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-06-10",
+    "land_ice_mass": -3996010000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-06-13",
+    "land_ice_mass": -4044730000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-07-09",
+    "land_ice_mass": -4068520000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-10-30",
+    "land_ice_mass": -4208210000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-11-13",
+    "land_ice_mass": -4174100000000.0005,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-12-16",
+    "land_ice_mass": -4185130000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2019-01-15",
+    "land_ice_mass": -4189729999999.9995,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2019-02-13",
+    "land_ice_mass": -4215569999999.9995,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2019-03-14",
+    "land_ice_mass": -4236370000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2019-04-16",
+    "land_ice_mass": -4220729999999.9995,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2019-05-15",
+    "land_ice_mass": -4202470000000.0005,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2019-06-13",
+    "land_ice_mass": -4258240000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2019-07-16",
+    "land_ice_mass": -4460520000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2019-08-14",
+    "land_ice_mass": -4689860000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2019-09-16",
+    "land_ice_mass": -4782310000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2019-10-15",
+    "land_ice_mass": -4766750000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2019-11-13",
+    "land_ice_mass": -4724370000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2019-12-16",
+    "land_ice_mass": -4728730000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2020-01-15",
+    "land_ice_mass": -4766340000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2020-02-13",
+    "land_ice_mass": -4720700000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2020-03-17",
+    "land_ice_mass": -4755450000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2020-04-15",
+    "land_ice_mass": -4745640000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2020-05-14",
+    "land_ice_mass": -4718490000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2020-06-16",
+    "land_ice_mass": -4755850000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2020-07-15",
+    "land_ice_mass": -4909800000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2020-08-13",
+    "land_ice_mass": -4991280000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2020-09-15",
+    "land_ice_mass": -4996080000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2020-10-14",
+    "land_ice_mass": -4928750000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2020-11-12",
+    "land_ice_mass": -4922260000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2020-12-15",
+    "land_ice_mass": -4899460000000,
+    "ice_mass_change": ""
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1992-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 395365525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1992-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 401965525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1992-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 408565525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1992-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 415165525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1992-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 421765525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1992-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 428365525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1992-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 434965525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1992-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 441565525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1992-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 448165525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1992-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 454765525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1992-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 461365525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1992-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": 467965525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1993-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 461673859200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1993-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 455382192500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1993-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 449090525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1993-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 442798859200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1993-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 436507192500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1993-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 430215525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1993-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 423923859200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1993-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 417632192500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1993-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 411340525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1993-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 405048859200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1993-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 398757192500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1993-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 392465525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1994-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 386065525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1994-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 379665525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1994-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 373265525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1994-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 366865525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1994-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 360465525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1994-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 354065525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1994-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 347665525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1994-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 341265525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1994-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 334865525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1994-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 328465525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1994-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 322065525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1994-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 315665525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1995-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 301790525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1995-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 287915525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1995-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 274040525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1995-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 260165525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1995-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 246290525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1995-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 232415525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1995-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 218540525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1995-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 204665525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1995-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 190790525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1995-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 176915525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1995-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 163040525800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1995-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 152327172400
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1996-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 157888960800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1996-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 163450749100
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1996-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 169012537500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1996-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 174574325800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1996-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 180136114200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1996-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 185697902500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1996-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 197763254300
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1996-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 209828606000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1996-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 221893957800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1996-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 233959309600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1996-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 246024661300
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1996-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": 258090013100.00003
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1997-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 262886284400.00003
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1997-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 267682555800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1997-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 272478827100
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1997-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 277275098500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1997-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 282071369800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1997-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 286867641100
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1997-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 287698993000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1997-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 288530344800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1997-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 289361696600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1997-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 290193048400
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1997-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 291024400300
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1997-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 291855752100
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1998-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 281162445200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1998-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 270469138300
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1998-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 259775831400.00003
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1998-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 249082524400
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1998-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 238389217500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1998-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 227695910600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1998-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 213624966100
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1998-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 199554021600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1998-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 185483077100
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1998-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 171412132600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1998-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 157341188000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1998-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 143270243500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1999-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 139036381100
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1999-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 134802518700
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1999-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 130568656200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1999-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 126334793800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1999-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 122100931400
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1999-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 117867068900
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1999-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 117414170400
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1999-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 116961271800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1999-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 116508373300
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1999-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 116055474700
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1999-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 115602576200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "1999-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 115149677600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2000-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 113678476600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2000-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 112207275700
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2000-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 110736074700
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2000-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 109264873700
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2000-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 107793672700
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2000-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 106322471700
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2000-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 102109715100
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2000-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 97896958410
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2000-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 93684201750
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2000-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 89471445080
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2000-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 85258688420
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2000-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": 81045931760
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2001-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 76576115490
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2001-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 72106299210
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2001-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 67636482939.99999
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2001-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 63166666670
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2001-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 58696850390
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2001-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 54227034120
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2001-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 51515091860
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2001-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 48803149610
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2001-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 46091207350
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2001-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 43379265090
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2001-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 40667322830
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2001-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": 37955380580
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": 28466535430
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": 18977690290
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 9488845144
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": 0
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -9488845144
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -18977690290
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -31268409990
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -41308577720
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -51348745450
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -61388913180
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -71429080920
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2002-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -81469248650
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -94247967640
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -107026686600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -119805405600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -132904348300.00002
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -146003291000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -159102233700
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -172305686000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -185509138300
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -200758907300
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -216008676400
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -231258445500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2003-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -246508214600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -261849759300.00003
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -277191304000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -292532848600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -307874393300
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -323215938000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -338557482700
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -354018675000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -369479867300
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -384941059700
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -400402252000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -415863444300
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2004-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": -431324636700
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -446640349100
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -461956061500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -477271773900
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -492587486400
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -507903198800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -523218911200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -538653554900
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -554088198600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -569522842200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -584957485900
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -600392129600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2005-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -615826773200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -633429963600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -651033154000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -668636344400
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -686239534800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -703842725200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -721445915600
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -740196190500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -758946465500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -777696740400
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -796447015400
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -815197290300
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2006-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -833947565200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -853837918500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -873728271900
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -893618625200
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -913508978500
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -933399331800
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -953289685100
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -973211824100
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -993133963000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1013056102000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1032978241000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1052900380000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2007-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -1072516654000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1091517038000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1110517421000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1129517805000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1148518189000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1167518572000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1186518956000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1205181366000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1223843776000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -1242506187000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -1261168597000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -1279831008000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2008-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": -1298493418000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1318531619000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1338569819000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1358608019000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1378646220000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1398684420000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1418722621000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1439098172000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1459473723000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1479849274000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1500361471000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1520873668000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2009-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -1540732647000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1563584047000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1590575455000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1617566863000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1644558272000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1671549680000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1698541089000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1726074425000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1753607761000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1781141097000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1808674433000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1836207769000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2010-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -1863741105000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -1892597237000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -1921453368000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1950309500000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -1979165632000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2008021763000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2036877895000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2065468449999.9998
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2094059005000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2122649561000.0002
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2151240116000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2179830671000.0002
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2011-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -2208421226000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2263611190000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2291206171000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2318801153000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2346396135000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2373991116000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2401943714000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2429896312000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -2457848910000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -2485801508000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -2513754106000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2012-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": -2541706704000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2561055333000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2580403961000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2599752590000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2619101219000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2638449847000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2657798476000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2675094932000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2692391388000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2709687844000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2726984300000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2744280756000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2013-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -2761577212000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2779028239000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2797078069000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2815127899000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2833177729000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2851227559000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2869277389000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -2887327219000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2905377048000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2923426878000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2941476708000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -2959526538000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2014-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -2977576368000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -2996274430000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3014652973000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -3033031516000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -3049323330000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -3065740471000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3082157613000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -3098656026000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3115154438000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3131652851000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3148151264000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3164649677000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2015-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -3181148089000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3200426290000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3219704490000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-03-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3238982690000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-04-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3258260891000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-05-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3277539091000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-05-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3296817292000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-07-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3316095492000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-07-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3338545778000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-08-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -3360996065000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-09-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -3383446351000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-10-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -3405896638000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2016-11-29",
+    "land_ice_mass": "",
+    "ice_mass_change": -3428346924000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3435395506000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3442444089000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -3449492671000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -3463589836000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3470638418000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -3477687000000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3484735583000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3491784165000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3498832747000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3505881330000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2017-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -3512929912000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-01-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3519216944000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-01-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3531200277000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-03-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -3543183610000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-04-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -3555166944000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-05-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -3567150277000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-06-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3579133610000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-07-02",
+    "land_ice_mass": "",
+    "ice_mass_change": -3591116944000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-08-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3603100277000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-08-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3615083610000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-10-01",
+    "land_ice_mass": "",
+    "ice_mass_change": -3627066944000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-10-31",
+    "land_ice_mass": "",
+    "ice_mass_change": -3639050277000
+  },
+  {
+    "Entity": "Greenland",
+    "Code": "GRL",
+    "Day": "2018-11-30",
+    "land_ice_mass": "",
+    "ice_mass_change": -3651033610000
+  }
+]

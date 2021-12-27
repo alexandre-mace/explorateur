@@ -1,0 +1,4506 @@
+[
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1880-04-15",
+    "sea_level_rise_average": -183.31406,
+    "sea_level_rise_cw2011": -183.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1880-07-15",
+    "sea_level_rise_average": -183.2474,
+    "sea_level_rise_cw2011": -183.2473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1880-10-15",
+    "sea_level_rise_average": -174.1474,
+    "sea_level_rise_cw2011": -174.1473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1881-01-15",
+    "sea_level_rise_average": -159.68073,
+    "sea_level_rise_cw2011": -159.6807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1881-04-15",
+    "sea_level_rise_average": -172.41406,
+    "sea_level_rise_cw2011": -172.4140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1881-07-15",
+    "sea_level_rise_average": -174.01406,
+    "sea_level_rise_cw2011": -174.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1881-10-15",
+    "sea_level_rise_average": -186.0474,
+    "sea_level_rise_cw2011": -186.0473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1882-01-15",
+    "sea_level_rise_average": -189.48073,
+    "sea_level_rise_cw2011": -189.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1882-04-15",
+    "sea_level_rise_average": -184.21406,
+    "sea_level_rise_cw2011": -184.2140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1882-07-15",
+    "sea_level_rise_average": -190.08073,
+    "sea_level_rise_cw2011": -190.0807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1882-10-15",
+    "sea_level_rise_average": -202.5474,
+    "sea_level_rise_cw2011": -202.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1883-01-15",
+    "sea_level_rise_average": -204.38073,
+    "sea_level_rise_cw2011": -204.3807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1883-04-15",
+    "sea_level_rise_average": -192.48073,
+    "sea_level_rise_cw2011": -192.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1883-07-15",
+    "sea_level_rise_average": -185.1474,
+    "sea_level_rise_cw2011": -185.1473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1883-10-15",
+    "sea_level_rise_average": -179.81406,
+    "sea_level_rise_cw2011": -179.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1884-01-15",
+    "sea_level_rise_average": -166.61406,
+    "sea_level_rise_cw2011": -166.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1884-04-15",
+    "sea_level_rise_average": -158.98073,
+    "sea_level_rise_cw2011": -158.9807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1884-07-15",
+    "sea_level_rise_average": -166.28073,
+    "sea_level_rise_cw2011": -166.2807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1884-10-15",
+    "sea_level_rise_average": -174.51406,
+    "sea_level_rise_cw2011": -174.5140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1885-01-15",
+    "sea_level_rise_average": -173.3474,
+    "sea_level_rise_cw2011": -173.3473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1885-04-15",
+    "sea_level_rise_average": -166.61406,
+    "sea_level_rise_cw2011": -166.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1885-07-15",
+    "sea_level_rise_average": -167.68073,
+    "sea_level_rise_cw2011": -167.6807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1885-10-15",
+    "sea_level_rise_average": -166.58073,
+    "sea_level_rise_cw2011": -166.5807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1886-01-15",
+    "sea_level_rise_average": -171.11406,
+    "sea_level_rise_cw2011": -171.1140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1886-04-15",
+    "sea_level_rise_average": -164.08073,
+    "sea_level_rise_cw2011": -164.0807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1886-07-15",
+    "sea_level_rise_average": -164.21406,
+    "sea_level_rise_cw2011": -164.2140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1886-10-15",
+    "sea_level_rise_average": -178.98073,
+    "sea_level_rise_cw2011": -178.9807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1887-01-15",
+    "sea_level_rise_average": -184.18073,
+    "sea_level_rise_cw2011": -184.1807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1887-04-15",
+    "sea_level_rise_average": -180.78073,
+    "sea_level_rise_cw2011": -180.7807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1887-07-15",
+    "sea_level_rise_average": -170.21406,
+    "sea_level_rise_cw2011": -170.2140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1887-10-15",
+    "sea_level_rise_average": -171.88073,
+    "sea_level_rise_cw2011": -171.8807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1888-01-15",
+    "sea_level_rise_average": -175.88073,
+    "sea_level_rise_cw2011": -175.8807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1888-04-15",
+    "sea_level_rise_average": -177.71406,
+    "sea_level_rise_cw2011": -177.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1888-07-15",
+    "sea_level_rise_average": -172.61406,
+    "sea_level_rise_cw2011": -172.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1888-10-15",
+    "sea_level_rise_average": -170.41406,
+    "sea_level_rise_cw2011": -170.4140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1889-01-15",
+    "sea_level_rise_average": -171.08073,
+    "sea_level_rise_cw2011": -171.0807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1889-04-15",
+    "sea_level_rise_average": -167.98073,
+    "sea_level_rise_cw2011": -167.9807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1889-07-15",
+    "sea_level_rise_average": -169.71406,
+    "sea_level_rise_cw2011": -169.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1889-10-15",
+    "sea_level_rise_average": -177.1474,
+    "sea_level_rise_cw2011": -177.1473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1890-01-15",
+    "sea_level_rise_average": -176.5474,
+    "sea_level_rise_cw2011": -176.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1890-04-15",
+    "sea_level_rise_average": -160.71406,
+    "sea_level_rise_cw2011": -160.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1890-07-15",
+    "sea_level_rise_average": -166.98073,
+    "sea_level_rise_cw2011": -166.9807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1890-10-15",
+    "sea_level_rise_average": -175.28073,
+    "sea_level_rise_cw2011": -175.2807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1891-01-15",
+    "sea_level_rise_average": -186.48073,
+    "sea_level_rise_cw2011": -186.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1891-04-15",
+    "sea_level_rise_average": -171.01406,
+    "sea_level_rise_cw2011": -171.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1891-07-15",
+    "sea_level_rise_average": -167.71406,
+    "sea_level_rise_cw2011": -167.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1891-10-15",
+    "sea_level_rise_average": -168.21406,
+    "sea_level_rise_cw2011": -168.2140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1892-01-15",
+    "sea_level_rise_average": -167.5474,
+    "sea_level_rise_cw2011": -167.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1892-04-15",
+    "sea_level_rise_average": -163.41406,
+    "sea_level_rise_cw2011": -163.4140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1892-07-15",
+    "sea_level_rise_average": -167.58073,
+    "sea_level_rise_cw2011": -167.5807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1892-10-15",
+    "sea_level_rise_average": -176.08073,
+    "sea_level_rise_cw2011": -176.0807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1893-01-15",
+    "sea_level_rise_average": -170.81406,
+    "sea_level_rise_cw2011": -170.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1893-04-15",
+    "sea_level_rise_average": -160.8474,
+    "sea_level_rise_cw2011": -160.8473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1893-07-15",
+    "sea_level_rise_average": -162.98073,
+    "sea_level_rise_cw2011": -162.9807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1893-10-15",
+    "sea_level_rise_average": -164.48073,
+    "sea_level_rise_cw2011": -164.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1894-01-15",
+    "sea_level_rise_average": -170.08073,
+    "sea_level_rise_cw2011": -170.0807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1894-04-15",
+    "sea_level_rise_average": -173.21406,
+    "sea_level_rise_cw2011": -173.2140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1894-07-15",
+    "sea_level_rise_average": -176.88073,
+    "sea_level_rise_cw2011": -176.8807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1894-10-15",
+    "sea_level_rise_average": -177.01406,
+    "sea_level_rise_cw2011": -177.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1895-01-15",
+    "sea_level_rise_average": -161.11406,
+    "sea_level_rise_cw2011": -161.1140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1895-04-15",
+    "sea_level_rise_average": -166.0474,
+    "sea_level_rise_cw2011": -166.0473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1895-07-15",
+    "sea_level_rise_average": -163.1474,
+    "sea_level_rise_cw2011": -163.1473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1895-10-15",
+    "sea_level_rise_average": -158.7474,
+    "sea_level_rise_cw2011": -158.7473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1896-01-15",
+    "sea_level_rise_average": -171.4474,
+    "sea_level_rise_cw2011": -171.4473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1896-04-15",
+    "sea_level_rise_average": -172.88073,
+    "sea_level_rise_cw2011": -172.8807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1896-07-15",
+    "sea_level_rise_average": -160.31406,
+    "sea_level_rise_cw2011": -160.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1896-10-15",
+    "sea_level_rise_average": -169.8474,
+    "sea_level_rise_cw2011": -169.8473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1897-01-15",
+    "sea_level_rise_average": -173.38073,
+    "sea_level_rise_cw2011": -173.3807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1897-04-15",
+    "sea_level_rise_average": -162.48073,
+    "sea_level_rise_cw2011": -162.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1897-07-15",
+    "sea_level_rise_average": -152.1474,
+    "sea_level_rise_cw2011": -152.1473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1897-10-15",
+    "sea_level_rise_average": -168.9474,
+    "sea_level_rise_cw2011": -168.9473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1898-01-15",
+    "sea_level_rise_average": -169.2474,
+    "sea_level_rise_cw2011": -169.2473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1898-04-15",
+    "sea_level_rise_average": -147.9474,
+    "sea_level_rise_cw2011": -147.9473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1898-07-15",
+    "sea_level_rise_average": -157.11406,
+    "sea_level_rise_cw2011": -157.1140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1898-10-15",
+    "sea_level_rise_average": -155.61406,
+    "sea_level_rise_cw2011": -155.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1899-01-15",
+    "sea_level_rise_average": -150.58073,
+    "sea_level_rise_cw2011": -150.5807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1899-04-15",
+    "sea_level_rise_average": -149.88073,
+    "sea_level_rise_cw2011": -149.8807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1899-07-15",
+    "sea_level_rise_average": -151.68073,
+    "sea_level_rise_cw2011": -151.6807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1899-10-15",
+    "sea_level_rise_average": -140.08073,
+    "sea_level_rise_cw2011": -140.0807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1900-01-15",
+    "sea_level_rise_average": -150.31406,
+    "sea_level_rise_cw2011": -150.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1900-04-15",
+    "sea_level_rise_average": -151.78073,
+    "sea_level_rise_cw2011": -151.7807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1900-07-15",
+    "sea_level_rise_average": -152.0474,
+    "sea_level_rise_cw2011": -152.0473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1900-10-15",
+    "sea_level_rise_average": -155.38073,
+    "sea_level_rise_cw2011": -155.3807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1901-01-15",
+    "sea_level_rise_average": -155.4474,
+    "sea_level_rise_cw2011": -155.4473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1901-04-15",
+    "sea_level_rise_average": -156.58073,
+    "sea_level_rise_cw2011": -156.5807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1901-07-15",
+    "sea_level_rise_average": -156.5474,
+    "sea_level_rise_cw2011": -156.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1901-10-15",
+    "sea_level_rise_average": -147.48073,
+    "sea_level_rise_cw2011": -147.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1902-01-15",
+    "sea_level_rise_average": -145.58073,
+    "sea_level_rise_cw2011": -145.5807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1902-04-15",
+    "sea_level_rise_average": -150.78073,
+    "sea_level_rise_cw2011": -150.7807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1902-07-15",
+    "sea_level_rise_average": -153.71406,
+    "sea_level_rise_cw2011": -153.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1902-10-15",
+    "sea_level_rise_average": -145.41406,
+    "sea_level_rise_cw2011": -145.4140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1903-01-15",
+    "sea_level_rise_average": -144.81406,
+    "sea_level_rise_cw2011": -144.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1903-04-15",
+    "sea_level_rise_average": -134.61406,
+    "sea_level_rise_cw2011": -134.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1903-07-15",
+    "sea_level_rise_average": -138.3474,
+    "sea_level_rise_cw2011": -138.3473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1903-10-15",
+    "sea_level_rise_average": -145.71406,
+    "sea_level_rise_cw2011": -145.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1904-01-15",
+    "sea_level_rise_average": -144.78073,
+    "sea_level_rise_cw2011": -144.7807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1904-04-15",
+    "sea_level_rise_average": -147.7474,
+    "sea_level_rise_cw2011": -147.7473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1904-07-15",
+    "sea_level_rise_average": -152.2474,
+    "sea_level_rise_cw2011": -152.2473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1904-10-15",
+    "sea_level_rise_average": -155.08073,
+    "sea_level_rise_cw2011": -155.0807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1905-01-15",
+    "sea_level_rise_average": -160.5474,
+    "sea_level_rise_cw2011": -160.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1905-04-15",
+    "sea_level_rise_average": -160.81406,
+    "sea_level_rise_cw2011": -160.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1905-07-15",
+    "sea_level_rise_average": -154.41406,
+    "sea_level_rise_cw2011": -154.4140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1905-10-15",
+    "sea_level_rise_average": -150.81406,
+    "sea_level_rise_cw2011": -150.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1906-01-15",
+    "sea_level_rise_average": -154.9474,
+    "sea_level_rise_cw2011": -154.9473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1906-04-15",
+    "sea_level_rise_average": -150.41406,
+    "sea_level_rise_cw2011": -150.4140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1906-07-15",
+    "sea_level_rise_average": -146.8474,
+    "sea_level_rise_cw2011": -146.8473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1906-10-15",
+    "sea_level_rise_average": -148.98073,
+    "sea_level_rise_cw2011": -148.9807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1907-01-15",
+    "sea_level_rise_average": -151.1474,
+    "sea_level_rise_cw2011": -151.1473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1907-04-15",
+    "sea_level_rise_average": -147.28073,
+    "sea_level_rise_cw2011": -147.2807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1907-07-15",
+    "sea_level_rise_average": -147.38073,
+    "sea_level_rise_cw2011": -147.3807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1907-10-15",
+    "sea_level_rise_average": -157.0474,
+    "sea_level_rise_cw2011": -157.0473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1908-01-15",
+    "sea_level_rise_average": -154.48073,
+    "sea_level_rise_cw2011": -154.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1908-04-15",
+    "sea_level_rise_average": -153.9474,
+    "sea_level_rise_cw2011": -153.9473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1908-07-15",
+    "sea_level_rise_average": -149.61406,
+    "sea_level_rise_cw2011": -149.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1908-10-15",
+    "sea_level_rise_average": -156.48073,
+    "sea_level_rise_cw2011": -156.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1909-01-15",
+    "sea_level_rise_average": -152.31406,
+    "sea_level_rise_cw2011": -152.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1909-04-15",
+    "sea_level_rise_average": -146.31406,
+    "sea_level_rise_cw2011": -146.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1909-07-15",
+    "sea_level_rise_average": -152.78073,
+    "sea_level_rise_cw2011": -152.7807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1909-10-15",
+    "sea_level_rise_average": -148.6474,
+    "sea_level_rise_cw2011": -148.6473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1910-01-15",
+    "sea_level_rise_average": -150.8474,
+    "sea_level_rise_cw2011": -150.8473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1910-04-15",
+    "sea_level_rise_average": -150.9474,
+    "sea_level_rise_cw2011": -150.9473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1910-07-15",
+    "sea_level_rise_average": -146.31406,
+    "sea_level_rise_cw2011": -146.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1910-10-15",
+    "sea_level_rise_average": -148.71406,
+    "sea_level_rise_cw2011": -148.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1911-01-15",
+    "sea_level_rise_average": -149.1474,
+    "sea_level_rise_cw2011": -149.1473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1911-04-15",
+    "sea_level_rise_average": -144.08073,
+    "sea_level_rise_cw2011": -144.0807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1911-07-15",
+    "sea_level_rise_average": -141.38073,
+    "sea_level_rise_cw2011": -141.3807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1911-10-15",
+    "sea_level_rise_average": -133.58073,
+    "sea_level_rise_cw2011": -133.5807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1912-01-15",
+    "sea_level_rise_average": -142.9474,
+    "sea_level_rise_cw2011": -142.9473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1912-04-15",
+    "sea_level_rise_average": -149.68073,
+    "sea_level_rise_cw2011": -149.6807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1912-07-15",
+    "sea_level_rise_average": -142.6474,
+    "sea_level_rise_cw2011": -142.6473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1912-10-15",
+    "sea_level_rise_average": -141.08073,
+    "sea_level_rise_cw2011": -141.0807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1913-01-15",
+    "sea_level_rise_average": -142.0474,
+    "sea_level_rise_cw2011": -142.0473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1913-04-15",
+    "sea_level_rise_average": -150.21406,
+    "sea_level_rise_cw2011": -150.2140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1913-07-15",
+    "sea_level_rise_average": -140.31406,
+    "sea_level_rise_cw2011": -140.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1913-10-15",
+    "sea_level_rise_average": -136.11406,
+    "sea_level_rise_cw2011": -136.1140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1914-01-15",
+    "sea_level_rise_average": -137.5474,
+    "sea_level_rise_cw2011": -137.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1914-04-15",
+    "sea_level_rise_average": -139.6474,
+    "sea_level_rise_cw2011": -139.6473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1914-07-15",
+    "sea_level_rise_average": -143.61406,
+    "sea_level_rise_cw2011": -143.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1914-10-15",
+    "sea_level_rise_average": -132.18073,
+    "sea_level_rise_cw2011": -132.1807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1915-01-15",
+    "sea_level_rise_average": -108.7474,
+    "sea_level_rise_cw2011": -108.7473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1915-04-15",
+    "sea_level_rise_average": -124.21406,
+    "sea_level_rise_cw2011": -124.2140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1915-07-15",
+    "sea_level_rise_average": -135.9474,
+    "sea_level_rise_cw2011": -135.9473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1915-10-15",
+    "sea_level_rise_average": -136.3474,
+    "sea_level_rise_cw2011": -136.3473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1916-01-15",
+    "sea_level_rise_average": -129.58073,
+    "sea_level_rise_cw2011": -129.5807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1916-04-15",
+    "sea_level_rise_average": -125.58073,
+    "sea_level_rise_cw2011": -125.5807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1916-07-15",
+    "sea_level_rise_average": -134.78073,
+    "sea_level_rise_cw2011": -134.7807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1916-10-15",
+    "sea_level_rise_average": -132.61406,
+    "sea_level_rise_cw2011": -132.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1917-01-15",
+    "sea_level_rise_average": -127.78073,
+    "sea_level_rise_cw2011": -127.7807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1917-04-15",
+    "sea_level_rise_average": -137.38073,
+    "sea_level_rise_cw2011": -137.3807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1917-07-15",
+    "sea_level_rise_average": -134.48073,
+    "sea_level_rise_cw2011": -134.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1917-10-15",
+    "sea_level_rise_average": -135.68073,
+    "sea_level_rise_cw2011": -135.6807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1918-01-15",
+    "sea_level_rise_average": -134.41406,
+    "sea_level_rise_cw2011": -134.4140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1918-04-15",
+    "sea_level_rise_average": -138.5474,
+    "sea_level_rise_cw2011": -138.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1918-07-15",
+    "sea_level_rise_average": -135.71406,
+    "sea_level_rise_cw2011": -135.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1918-10-15",
+    "sea_level_rise_average": -134.1474,
+    "sea_level_rise_cw2011": -134.1473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1919-01-15",
+    "sea_level_rise_average": -141.0474,
+    "sea_level_rise_cw2011": -141.0473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1919-04-15",
+    "sea_level_rise_average": -138.38073,
+    "sea_level_rise_cw2011": -138.3807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1919-07-15",
+    "sea_level_rise_average": -128.48073,
+    "sea_level_rise_cw2011": -128.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1919-10-15",
+    "sea_level_rise_average": -130.78073,
+    "sea_level_rise_cw2011": -130.7807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1920-01-15",
+    "sea_level_rise_average": -138.31406,
+    "sea_level_rise_cw2011": -138.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1920-04-15",
+    "sea_level_rise_average": -134.81406,
+    "sea_level_rise_cw2011": -134.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1920-07-15",
+    "sea_level_rise_average": -127.18073,
+    "sea_level_rise_cw2011": -127.1807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1920-10-15",
+    "sea_level_rise_average": -133.78073,
+    "sea_level_rise_cw2011": -133.7807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1921-01-15",
+    "sea_level_rise_average": -131.91406,
+    "sea_level_rise_cw2011": -131.9140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1921-04-15",
+    "sea_level_rise_average": -126.81406,
+    "sea_level_rise_cw2011": -126.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1921-07-15",
+    "sea_level_rise_average": -129.5474,
+    "sea_level_rise_cw2011": -129.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1921-10-15",
+    "sea_level_rise_average": -136.5474,
+    "sea_level_rise_cw2011": -136.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1922-01-15",
+    "sea_level_rise_average": -131.9474,
+    "sea_level_rise_cw2011": -131.9473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1922-04-15",
+    "sea_level_rise_average": -129.88073,
+    "sea_level_rise_cw2011": -129.8807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1922-07-15",
+    "sea_level_rise_average": -133.6474,
+    "sea_level_rise_cw2011": -133.6473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1922-10-15",
+    "sea_level_rise_average": -134.7474,
+    "sea_level_rise_cw2011": -134.7473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1923-01-15",
+    "sea_level_rise_average": -128.58073,
+    "sea_level_rise_cw2011": -128.5807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1923-04-15",
+    "sea_level_rise_average": -126.51406,
+    "sea_level_rise_cw2011": -126.5140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1923-07-15",
+    "sea_level_rise_average": -129.5474,
+    "sea_level_rise_cw2011": -129.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1923-10-15",
+    "sea_level_rise_average": -134.28073,
+    "sea_level_rise_cw2011": -134.2807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1924-01-15",
+    "sea_level_rise_average": -138.71406,
+    "sea_level_rise_cw2011": -138.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1924-04-15",
+    "sea_level_rise_average": -136.38073,
+    "sea_level_rise_cw2011": -136.3807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1924-07-15",
+    "sea_level_rise_average": -138.98073,
+    "sea_level_rise_cw2011": -138.9807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1924-10-15",
+    "sea_level_rise_average": -139.01406,
+    "sea_level_rise_cw2011": -139.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1925-01-15",
+    "sea_level_rise_average": -135.61406,
+    "sea_level_rise_cw2011": -135.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1925-04-15",
+    "sea_level_rise_average": -137.11406,
+    "sea_level_rise_cw2011": -137.1140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1925-07-15",
+    "sea_level_rise_average": -138.4474,
+    "sea_level_rise_cw2011": -138.4473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1925-10-15",
+    "sea_level_rise_average": -135.8474,
+    "sea_level_rise_cw2011": -135.8473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1926-01-15",
+    "sea_level_rise_average": -133.21406,
+    "sea_level_rise_cw2011": -133.2140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1926-04-15",
+    "sea_level_rise_average": -135.58073,
+    "sea_level_rise_cw2011": -135.5807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1926-07-15",
+    "sea_level_rise_average": -126.28073,
+    "sea_level_rise_cw2011": -126.2807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1926-10-15",
+    "sea_level_rise_average": -122.68073,
+    "sea_level_rise_cw2011": -122.6807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1927-01-15",
+    "sea_level_rise_average": -133.5474,
+    "sea_level_rise_cw2011": -133.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1927-04-15",
+    "sea_level_rise_average": -128.71406,
+    "sea_level_rise_cw2011": -128.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1927-07-15",
+    "sea_level_rise_average": -127.7474,
+    "sea_level_rise_cw2011": -127.7473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1927-10-15",
+    "sea_level_rise_average": -131.98073,
+    "sea_level_rise_cw2011": -131.9807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1928-01-15",
+    "sea_level_rise_average": -138.51406,
+    "sea_level_rise_cw2011": -138.5140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1928-04-15",
+    "sea_level_rise_average": -134.58073,
+    "sea_level_rise_cw2011": -134.5807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1928-07-15",
+    "sea_level_rise_average": -128.88073,
+    "sea_level_rise_cw2011": -128.8807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1928-10-15",
+    "sea_level_rise_average": -133.88073,
+    "sea_level_rise_cw2011": -133.8807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1929-01-15",
+    "sea_level_rise_average": -141.3474,
+    "sea_level_rise_cw2011": -141.3473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1929-04-15",
+    "sea_level_rise_average": -133.11406,
+    "sea_level_rise_cw2011": -133.1140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1929-07-15",
+    "sea_level_rise_average": -129.08073,
+    "sea_level_rise_cw2011": -129.0807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1929-10-15",
+    "sea_level_rise_average": -131.4474,
+    "sea_level_rise_cw2011": -131.4473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1930-01-15",
+    "sea_level_rise_average": -134.6474,
+    "sea_level_rise_cw2011": -134.6473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1930-04-15",
+    "sea_level_rise_average": -136.01406,
+    "sea_level_rise_cw2011": -136.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1930-07-15",
+    "sea_level_rise_average": -122.91406,
+    "sea_level_rise_cw2011": -122.9140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1930-10-15",
+    "sea_level_rise_average": -124.78073,
+    "sea_level_rise_cw2011": -124.7807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1931-01-15",
+    "sea_level_rise_average": -130.8474,
+    "sea_level_rise_cw2011": -130.8473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1931-04-15",
+    "sea_level_rise_average": -130.08073,
+    "sea_level_rise_cw2011": -130.0807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1931-07-15",
+    "sea_level_rise_average": -126.7474,
+    "sea_level_rise_cw2011": -126.7473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1931-10-15",
+    "sea_level_rise_average": -131.21406,
+    "sea_level_rise_cw2011": -131.2140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1932-01-15",
+    "sea_level_rise_average": -126.71406,
+    "sea_level_rise_cw2011": -126.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1932-04-15",
+    "sea_level_rise_average": -124.41406,
+    "sea_level_rise_cw2011": -124.4140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1932-07-15",
+    "sea_level_rise_average": -125.1474,
+    "sea_level_rise_cw2011": -125.1473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1932-10-15",
+    "sea_level_rise_average": -122.6474,
+    "sea_level_rise_cw2011": -122.6473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1933-01-15",
+    "sea_level_rise_average": -117.5474,
+    "sea_level_rise_cw2011": -117.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1933-04-15",
+    "sea_level_rise_average": -116.31406,
+    "sea_level_rise_cw2011": -116.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1933-07-15",
+    "sea_level_rise_average": -119.98073,
+    "sea_level_rise_cw2011": -119.9807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1933-10-15",
+    "sea_level_rise_average": -122.88073,
+    "sea_level_rise_cw2011": -122.8807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1934-01-15",
+    "sea_level_rise_average": -123.8474,
+    "sea_level_rise_cw2011": -123.8473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1934-04-15",
+    "sea_level_rise_average": -120.6474,
+    "sea_level_rise_cw2011": -120.6473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1934-07-15",
+    "sea_level_rise_average": -127.3474,
+    "sea_level_rise_cw2011": -127.3473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1934-10-15",
+    "sea_level_rise_average": -128.5474,
+    "sea_level_rise_cw2011": -128.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1935-01-15",
+    "sea_level_rise_average": -119.3474,
+    "sea_level_rise_cw2011": -119.3473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1935-04-15",
+    "sea_level_rise_average": -116.11406,
+    "sea_level_rise_cw2011": -116.1140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1935-07-15",
+    "sea_level_rise_average": -118.1474,
+    "sea_level_rise_cw2011": -118.1473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1935-10-15",
+    "sea_level_rise_average": -123.7474,
+    "sea_level_rise_cw2011": -123.7473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1936-01-15",
+    "sea_level_rise_average": -120.51406,
+    "sea_level_rise_cw2011": -120.5140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1936-04-15",
+    "sea_level_rise_average": -124.9474,
+    "sea_level_rise_cw2011": -124.9473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1936-07-15",
+    "sea_level_rise_average": -124.81406,
+    "sea_level_rise_cw2011": -124.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1936-10-15",
+    "sea_level_rise_average": -124.08073,
+    "sea_level_rise_cw2011": -124.0807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1937-01-15",
+    "sea_level_rise_average": -119.71406,
+    "sea_level_rise_cw2011": -119.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1937-04-15",
+    "sea_level_rise_average": -117.5474,
+    "sea_level_rise_cw2011": -117.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1937-07-15",
+    "sea_level_rise_average": -119.88073,
+    "sea_level_rise_cw2011": -119.8807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1937-10-15",
+    "sea_level_rise_average": -115.8474,
+    "sea_level_rise_cw2011": -115.8473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1938-01-15",
+    "sea_level_rise_average": -110.91406,
+    "sea_level_rise_cw2011": -110.9140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1938-04-15",
+    "sea_level_rise_average": -112.11406,
+    "sea_level_rise_cw2011": -112.1140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1938-07-15",
+    "sea_level_rise_average": -121.5474,
+    "sea_level_rise_cw2011": -121.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1938-10-15",
+    "sea_level_rise_average": -115.1474,
+    "sea_level_rise_cw2011": -115.1473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1939-01-15",
+    "sea_level_rise_average": -114.58073,
+    "sea_level_rise_cw2011": -114.5807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1939-04-15",
+    "sea_level_rise_average": -111.5474,
+    "sea_level_rise_cw2011": -111.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1939-07-15",
+    "sea_level_rise_average": -101.48073,
+    "sea_level_rise_cw2011": -101.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1939-10-15",
+    "sea_level_rise_average": -112.01406,
+    "sea_level_rise_cw2011": -112.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1940-01-15",
+    "sea_level_rise_average": -111.91406,
+    "sea_level_rise_cw2011": -111.9140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1940-04-15",
+    "sea_level_rise_average": -117.48073,
+    "sea_level_rise_cw2011": -117.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1940-07-15",
+    "sea_level_rise_average": -121.68073,
+    "sea_level_rise_cw2011": -121.6807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1940-10-15",
+    "sea_level_rise_average": -111.18073,
+    "sea_level_rise_cw2011": -111.1807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1941-01-15",
+    "sea_level_rise_average": -106.01406,
+    "sea_level_rise_cw2011": -106.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1941-04-15",
+    "sea_level_rise_average": -103.41406,
+    "sea_level_rise_cw2011": -103.4140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1941-07-15",
+    "sea_level_rise_average": -100.7474,
+    "sea_level_rise_cw2011": -100.7473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1941-10-15",
+    "sea_level_rise_average": -101.48073,
+    "sea_level_rise_cw2011": -101.4807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1942-01-15",
+    "sea_level_rise_average": -107.2474,
+    "sea_level_rise_cw2011": -107.2473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1942-04-15",
+    "sea_level_rise_average": -108.3474,
+    "sea_level_rise_cw2011": -108.3473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1942-07-15",
+    "sea_level_rise_average": -101.4474,
+    "sea_level_rise_cw2011": -101.4473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1942-10-15",
+    "sea_level_rise_average": -97.0474,
+    "sea_level_rise_cw2011": -97.04739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1943-01-15",
+    "sea_level_rise_average": -97.88073,
+    "sea_level_rise_cw2011": -97.88072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1943-04-15",
+    "sea_level_rise_average": -98.51406,
+    "sea_level_rise_cw2011": -98.5140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1943-07-15",
+    "sea_level_rise_average": -104.01406,
+    "sea_level_rise_cw2011": -104.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1943-10-15",
+    "sea_level_rise_average": -107.98073,
+    "sea_level_rise_cw2011": -107.9807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1944-01-15",
+    "sea_level_rise_average": -105.2474,
+    "sea_level_rise_cw2011": -105.2473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1944-04-15",
+    "sea_level_rise_average": -102.81406,
+    "sea_level_rise_cw2011": -102.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1944-07-15",
+    "sea_level_rise_average": -116.9474,
+    "sea_level_rise_cw2011": -116.9473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1944-10-15",
+    "sea_level_rise_average": -112.88073,
+    "sea_level_rise_cw2011": -112.8807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1945-01-15",
+    "sea_level_rise_average": -107.6474,
+    "sea_level_rise_cw2011": -107.6473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1945-04-15",
+    "sea_level_rise_average": -107.01406,
+    "sea_level_rise_cw2011": -107.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1945-07-15",
+    "sea_level_rise_average": -104.4474,
+    "sea_level_rise_cw2011": -104.4473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1945-10-15",
+    "sea_level_rise_average": -108.4474,
+    "sea_level_rise_cw2011": -108.4473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1946-01-15",
+    "sea_level_rise_average": -103.5474,
+    "sea_level_rise_cw2011": -103.5473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1946-04-15",
+    "sea_level_rise_average": -98.68073,
+    "sea_level_rise_cw2011": -98.68072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1946-07-15",
+    "sea_level_rise_average": -92.68073,
+    "sea_level_rise_cw2011": -92.68072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1946-10-15",
+    "sea_level_rise_average": -101.01406,
+    "sea_level_rise_cw2011": -101.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1947-01-15",
+    "sea_level_rise_average": -104.28073,
+    "sea_level_rise_cw2011": -104.2807292,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1947-04-15",
+    "sea_level_rise_average": -101.7474,
+    "sea_level_rise_cw2011": -101.7473958,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1947-07-15",
+    "sea_level_rise_average": -97.4474,
+    "sea_level_rise_cw2011": -97.44739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1947-10-15",
+    "sea_level_rise_average": -86.8474,
+    "sea_level_rise_cw2011": -86.84739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1948-01-15",
+    "sea_level_rise_average": -87.3474,
+    "sea_level_rise_cw2011": -87.34739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1948-04-15",
+    "sea_level_rise_average": -92.98073,
+    "sea_level_rise_cw2011": -92.98072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1948-07-15",
+    "sea_level_rise_average": -91.81406,
+    "sea_level_rise_cw2011": -91.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1948-10-15",
+    "sea_level_rise_average": -90.8474,
+    "sea_level_rise_cw2011": -90.84739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1949-01-15",
+    "sea_level_rise_average": -87.31406,
+    "sea_level_rise_cw2011": -87.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1949-04-15",
+    "sea_level_rise_average": -92.5474,
+    "sea_level_rise_cw2011": -92.54739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1949-07-15",
+    "sea_level_rise_average": -95.41406,
+    "sea_level_rise_cw2011": -95.4140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1949-10-15",
+    "sea_level_rise_average": -93.68073,
+    "sea_level_rise_cw2011": -93.68072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1950-01-15",
+    "sea_level_rise_average": -92.28073,
+    "sea_level_rise_cw2011": -92.28072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1950-04-15",
+    "sea_level_rise_average": -92.2474,
+    "sea_level_rise_cw2011": -92.24739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1950-07-15",
+    "sea_level_rise_average": -91.4474,
+    "sea_level_rise_cw2011": -91.44739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1950-10-15",
+    "sea_level_rise_average": -87.61406,
+    "sea_level_rise_cw2011": -87.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1951-01-15",
+    "sea_level_rise_average": -82.01406,
+    "sea_level_rise_cw2011": -82.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1951-04-15",
+    "sea_level_rise_average": -74.01406,
+    "sea_level_rise_cw2011": -74.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1951-07-15",
+    "sea_level_rise_average": -82.31406,
+    "sea_level_rise_cw2011": -82.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1951-10-15",
+    "sea_level_rise_average": -83.9474,
+    "sea_level_rise_cw2011": -83.94739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1952-01-15",
+    "sea_level_rise_average": -85.08073,
+    "sea_level_rise_cw2011": -85.08072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1952-04-15",
+    "sea_level_rise_average": -86.98073,
+    "sea_level_rise_cw2011": -86.98072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1952-07-15",
+    "sea_level_rise_average": -84.48073,
+    "sea_level_rise_cw2011": -84.48072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1952-10-15",
+    "sea_level_rise_average": -79.61406,
+    "sea_level_rise_cw2011": -79.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1953-01-15",
+    "sea_level_rise_average": -76.8474,
+    "sea_level_rise_cw2011": -76.84739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1953-04-15",
+    "sea_level_rise_average": -78.28073,
+    "sea_level_rise_cw2011": -78.28072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1953-07-15",
+    "sea_level_rise_average": -75.3474,
+    "sea_level_rise_cw2011": -75.34739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1953-10-15",
+    "sea_level_rise_average": -82.21406,
+    "sea_level_rise_cw2011": -82.2140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1954-01-15",
+    "sea_level_rise_average": -82.18073,
+    "sea_level_rise_cw2011": -82.18072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1954-04-15",
+    "sea_level_rise_average": -81.2474,
+    "sea_level_rise_cw2011": -81.24739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1954-07-15",
+    "sea_level_rise_average": -86.71406,
+    "sea_level_rise_cw2011": -86.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1954-10-15",
+    "sea_level_rise_average": -80.81406,
+    "sea_level_rise_cw2011": -80.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1955-01-15",
+    "sea_level_rise_average": -72.38073,
+    "sea_level_rise_cw2011": -72.38072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1955-04-15",
+    "sea_level_rise_average": -79.61406,
+    "sea_level_rise_cw2011": -79.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1955-07-15",
+    "sea_level_rise_average": -87.4474,
+    "sea_level_rise_cw2011": -87.44739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1955-10-15",
+    "sea_level_rise_average": -81.7474,
+    "sea_level_rise_cw2011": -81.74739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1956-01-15",
+    "sea_level_rise_average": -82.38073,
+    "sea_level_rise_cw2011": -82.38072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1956-04-15",
+    "sea_level_rise_average": -82.38073,
+    "sea_level_rise_cw2011": -82.38072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1956-07-15",
+    "sea_level_rise_average": -86.58073,
+    "sea_level_rise_cw2011": -86.58072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1956-10-15",
+    "sea_level_rise_average": -90.01406,
+    "sea_level_rise_cw2011": -90.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1957-01-15",
+    "sea_level_rise_average": -83.01406,
+    "sea_level_rise_cw2011": -83.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1957-04-15",
+    "sea_level_rise_average": -70.11406,
+    "sea_level_rise_cw2011": -70.1140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1957-07-15",
+    "sea_level_rise_average": -69.5474,
+    "sea_level_rise_cw2011": -69.54739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1957-10-15",
+    "sea_level_rise_average": -72.8474,
+    "sea_level_rise_cw2011": -72.84739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1958-01-15",
+    "sea_level_rise_average": -72.2474,
+    "sea_level_rise_cw2011": -72.24739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1958-04-15",
+    "sea_level_rise_average": -73.31406,
+    "sea_level_rise_cw2011": -73.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1958-07-15",
+    "sea_level_rise_average": -72.91406,
+    "sea_level_rise_cw2011": -72.9140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1958-10-15",
+    "sea_level_rise_average": -68.81406,
+    "sea_level_rise_cw2011": -68.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1959-01-15",
+    "sea_level_rise_average": -68.71406,
+    "sea_level_rise_cw2011": -68.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1959-04-15",
+    "sea_level_rise_average": -73.11406,
+    "sea_level_rise_cw2011": -73.1140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1959-07-15",
+    "sea_level_rise_average": -70.21406,
+    "sea_level_rise_cw2011": -70.2140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1959-10-15",
+    "sea_level_rise_average": -69.91406,
+    "sea_level_rise_cw2011": -69.9140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1960-01-15",
+    "sea_level_rise_average": -70.38073,
+    "sea_level_rise_cw2011": -70.38072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1960-04-15",
+    "sea_level_rise_average": -66.48073,
+    "sea_level_rise_cw2011": -66.48072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1960-07-15",
+    "sea_level_rise_average": -66.88073,
+    "sea_level_rise_cw2011": -66.88072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1960-10-15",
+    "sea_level_rise_average": -67.58073,
+    "sea_level_rise_cw2011": -67.58072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1961-01-15",
+    "sea_level_rise_average": -60.2474,
+    "sea_level_rise_cw2011": -60.24739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1961-04-15",
+    "sea_level_rise_average": -56.2474,
+    "sea_level_rise_cw2011": -56.24739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1961-07-15",
+    "sea_level_rise_average": -60.7474,
+    "sea_level_rise_cw2011": -60.74739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1961-10-15",
+    "sea_level_rise_average": -65.6474,
+    "sea_level_rise_cw2011": -65.64739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1962-01-15",
+    "sea_level_rise_average": -66.68073,
+    "sea_level_rise_cw2011": -66.68072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1962-04-15",
+    "sea_level_rise_average": -67.61406,
+    "sea_level_rise_cw2011": -67.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1962-07-15",
+    "sea_level_rise_average": -68.0474,
+    "sea_level_rise_cw2011": -68.04739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1962-10-15",
+    "sea_level_rise_average": -63.41406,
+    "sea_level_rise_cw2011": -63.4140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1963-01-15",
+    "sea_level_rise_average": -63.88073,
+    "sea_level_rise_cw2011": -63.88072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1963-04-15",
+    "sea_level_rise_average": -65.51406,
+    "sea_level_rise_cw2011": -65.5140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1963-07-15",
+    "sea_level_rise_average": -69.91406,
+    "sea_level_rise_cw2011": -69.9140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1963-10-15",
+    "sea_level_rise_average": -69.01406,
+    "sea_level_rise_cw2011": -69.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1964-01-15",
+    "sea_level_rise_average": -77.9474,
+    "sea_level_rise_cw2011": -77.94739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1964-04-15",
+    "sea_level_rise_average": -81.9474,
+    "sea_level_rise_cw2011": -81.94739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1964-07-15",
+    "sea_level_rise_average": -70.98073,
+    "sea_level_rise_cw2011": -70.98072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1964-10-15",
+    "sea_level_rise_average": -73.11406,
+    "sea_level_rise_cw2011": -73.1140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1965-01-15",
+    "sea_level_rise_average": -66.18073,
+    "sea_level_rise_cw2011": -66.18072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1965-04-15",
+    "sea_level_rise_average": -67.0474,
+    "sea_level_rise_cw2011": -67.04739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1965-07-15",
+    "sea_level_rise_average": -66.31406,
+    "sea_level_rise_cw2011": -66.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1965-10-15",
+    "sea_level_rise_average": -60.7474,
+    "sea_level_rise_cw2011": -60.74739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1966-01-15",
+    "sea_level_rise_average": -64.28073,
+    "sea_level_rise_cw2011": -64.28072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1966-04-15",
+    "sea_level_rise_average": -70.08073,
+    "sea_level_rise_cw2011": -70.08072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1966-07-15",
+    "sea_level_rise_average": -70.48073,
+    "sea_level_rise_cw2011": -70.48072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1966-10-15",
+    "sea_level_rise_average": -71.68073,
+    "sea_level_rise_cw2011": -71.68072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1967-01-15",
+    "sea_level_rise_average": -72.91406,
+    "sea_level_rise_cw2011": -72.9140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1967-04-15",
+    "sea_level_rise_average": -73.8474,
+    "sea_level_rise_cw2011": -73.84739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1967-07-15",
+    "sea_level_rise_average": -66.4474,
+    "sea_level_rise_cw2011": -66.44739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1967-10-15",
+    "sea_level_rise_average": -63.9474,
+    "sea_level_rise_cw2011": -63.94739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1968-01-15",
+    "sea_level_rise_average": -63.48073,
+    "sea_level_rise_cw2011": -63.48072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1968-04-15",
+    "sea_level_rise_average": -75.48073,
+    "sea_level_rise_cw2011": -75.48072917,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1968-07-15",
+    "sea_level_rise_average": -72.81406,
+    "sea_level_rise_cw2011": -72.8140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1968-10-15",
+    "sea_level_rise_average": -60.01406,
+    "sea_level_rise_cw2011": -60.0140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1969-01-15",
+    "sea_level_rise_average": -59.71406,
+    "sea_level_rise_cw2011": -59.7140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1969-04-15",
+    "sea_level_rise_average": -60.31406,
+    "sea_level_rise_cw2011": -60.3140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1969-07-15",
+    "sea_level_rise_average": -62.61406,
+    "sea_level_rise_cw2011": -62.6140625,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1969-10-15",
+    "sea_level_rise_average": -60.3474,
+    "sea_level_rise_cw2011": -60.34739583,
+    "sea_level_rise_uhslcfd": ""
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1970-01-15",
+    "sea_level_rise_average": -61.23975,
+    "sea_level_rise_cw2011": -61.5140625,
+    "sea_level_rise_uhslcfd": -60.96544387
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1970-04-15",
+    "sea_level_rise_average": -66.58982,
+    "sea_level_rise_cw2011": -63.1140625,
+    "sea_level_rise_uhslcfd": -70.06557339
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1970-07-15",
+    "sea_level_rise_average": -67.80814,
+    "sea_level_rise_cw2011": -64.74739583,
+    "sea_level_rise_uhslcfd": -70.86888759
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1970-10-15",
+    "sea_level_rise_average": -64.95967,
+    "sea_level_rise_cw2011": -62.8140625,
+    "sea_level_rise_uhslcfd": -67.10527973
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1971-01-15",
+    "sea_level_rise_average": -59.36343,
+    "sea_level_rise_cw2011": -57.48072917,
+    "sea_level_rise_uhslcfd": -61.24613993
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1971-04-15",
+    "sea_level_rise_average": -57.29109,
+    "sea_level_rise_cw2011": -55.34739583,
+    "sea_level_rise_uhslcfd": -59.23478119
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1971-07-15",
+    "sea_level_rise_average": -61.51765,
+    "sea_level_rise_cw2011": -60.48072917,
+    "sea_level_rise_uhslcfd": -62.5545612
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1971-10-15",
+    "sea_level_rise_average": -60.11195,
+    "sea_level_rise_cw2011": -57.08072917,
+    "sea_level_rise_uhslcfd": -63.14317181
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1972-01-15",
+    "sea_level_rise_average": -57.45813,
+    "sea_level_rise_cw2011": -56.5140625,
+    "sea_level_rise_uhslcfd": -58.40219895
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1972-04-15",
+    "sea_level_rise_average": -48.01152,
+    "sea_level_rise_cw2011": -47.08072917,
+    "sea_level_rise_uhslcfd": -48.94230976
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1972-07-15",
+    "sea_level_rise_average": -43.744,
+    "sea_level_rise_cw2011": -43.7140625,
+    "sea_level_rise_uhslcfd": -43.77394514
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1972-10-15",
+    "sea_level_rise_average": -48.07716,
+    "sea_level_rise_cw2011": -49.74739583,
+    "sea_level_rise_uhslcfd": -46.4069286
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1973-01-15",
+    "sea_level_rise_average": -53.00694,
+    "sea_level_rise_cw2011": -54.68072917,
+    "sea_level_rise_uhslcfd": -51.33315709
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1973-04-15",
+    "sea_level_rise_average": -57.22708,
+    "sea_level_rise_cw2011": -56.28072917,
+    "sea_level_rise_uhslcfd": -58.17343297
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1973-07-15",
+    "sea_level_rise_average": -59.69814,
+    "sea_level_rise_cw2011": -56.74739583,
+    "sea_level_rise_uhslcfd": -62.64887658
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1973-10-15",
+    "sea_level_rise_average": -55.99076,
+    "sea_level_rise_cw2011": -53.18072917,
+    "sea_level_rise_uhslcfd": -58.80079956
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1974-01-15",
+    "sea_level_rise_average": -44.53938,
+    "sea_level_rise_cw2011": -40.18072917,
+    "sea_level_rise_uhslcfd": -48.89802193
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1974-04-15",
+    "sea_level_rise_average": -41.29231,
+    "sea_level_rise_cw2011": -40.48072917,
+    "sea_level_rise_uhslcfd": -42.1038966
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1974-07-15",
+    "sea_level_rise_average": -42.41754,
+    "sea_level_rise_cw2011": -43.18072917,
+    "sea_level_rise_uhslcfd": -41.65436059
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1974-10-15",
+    "sea_level_rise_average": -44.02791,
+    "sea_level_rise_cw2011": -46.04739583,
+    "sea_level_rise_uhslcfd": -42.00842261
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1975-01-15",
+    "sea_level_rise_average": -41.24135,
+    "sea_level_rise_cw2011": -43.94739583,
+    "sea_level_rise_uhslcfd": -38.53531353
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1975-04-15",
+    "sea_level_rise_average": -40.25499,
+    "sea_level_rise_cw2011": -42.9140625,
+    "sea_level_rise_uhslcfd": -37.59591851
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1975-07-15",
+    "sea_level_rise_average": -44.54439,
+    "sea_level_rise_cw2011": -45.84739583,
+    "sea_level_rise_uhslcfd": -43.24139335
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1975-10-15",
+    "sea_level_rise_average": -46.36849,
+    "sea_level_rise_cw2011": -43.74739583,
+    "sea_level_rise_uhslcfd": -48.98959182
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1976-01-15",
+    "sea_level_rise_average": -47.44591,
+    "sea_level_rise_cw2011": -46.68072917,
+    "sea_level_rise_uhslcfd": -48.21109592
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1976-04-15",
+    "sea_level_rise_average": -43.38576,
+    "sea_level_rise_cw2011": -46.28072917,
+    "sea_level_rise_uhslcfd": -40.49079445
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1976-07-15",
+    "sea_level_rise_average": -40.14991,
+    "sea_level_rise_cw2011": -44.74739583,
+    "sea_level_rise_uhslcfd": -35.55243268
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1976-10-15",
+    "sea_level_rise_average": -41.39076,
+    "sea_level_rise_cw2011": -44.4140625,
+    "sea_level_rise_uhslcfd": -38.36745777
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1977-01-15",
+    "sea_level_rise_average": -44.83496,
+    "sea_level_rise_cw2011": -44.24739583,
+    "sea_level_rise_uhslcfd": -45.42252381
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1977-04-15",
+    "sea_level_rise_average": -49.70088,
+    "sea_level_rise_cw2011": -49.6140625,
+    "sea_level_rise_uhslcfd": -49.78768852
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1977-07-15",
+    "sea_level_rise_average": -48.46944,
+    "sea_level_rise_cw2011": -48.5140625,
+    "sea_level_rise_uhslcfd": -48.42480912
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1977-10-15",
+    "sea_level_rise_average": -45.60521,
+    "sea_level_rise_cw2011": -45.54739583,
+    "sea_level_rise_uhslcfd": -45.66303415
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1978-01-15",
+    "sea_level_rise_average": -41.26372,
+    "sea_level_rise_cw2011": -38.24739583,
+    "sea_level_rise_uhslcfd": -44.28004194
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1978-04-15",
+    "sea_level_rise_average": -41.87924,
+    "sea_level_rise_cw2011": -37.34739583,
+    "sea_level_rise_uhslcfd": -46.41108087
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1978-07-15",
+    "sea_level_rise_average": -45.392,
+    "sea_level_rise_cw2011": -41.8140625,
+    "sea_level_rise_uhslcfd": -48.96993724
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1978-10-15",
+    "sea_level_rise_average": -47.43206,
+    "sea_level_rise_cw2011": -42.2140625,
+    "sea_level_rise_uhslcfd": -52.65004871
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1979-01-15",
+    "sea_level_rise_average": -53.21401,
+    "sea_level_rise_cw2011": -49.6140625,
+    "sea_level_rise_uhslcfd": -56.81395408
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1979-04-15",
+    "sea_level_rise_average": -51.85539,
+    "sea_level_rise_cw2011": -49.38072917,
+    "sea_level_rise_uhslcfd": -54.33004753
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1979-07-15",
+    "sea_level_rise_average": -48.35037,
+    "sea_level_rise_cw2011": -46.8140625,
+    "sea_level_rise_uhslcfd": -49.88668493
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1979-10-15",
+    "sea_level_rise_average": -42.4946,
+    "sea_level_rise_cw2011": -39.38072917,
+    "sea_level_rise_uhslcfd": -45.60846658
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1980-01-15",
+    "sea_level_rise_average": -39.62568,
+    "sea_level_rise_cw2011": -37.68072917,
+    "sea_level_rise_uhslcfd": -41.57064016
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1980-04-15",
+    "sea_level_rise_average": -40.11137,
+    "sea_level_rise_cw2011": -38.9140625,
+    "sea_level_rise_uhslcfd": -41.30867868
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1980-07-15",
+    "sea_level_rise_average": -41.42697,
+    "sea_level_rise_cw2011": -41.88072917,
+    "sea_level_rise_uhslcfd": -40.97321911
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1980-10-15",
+    "sea_level_rise_average": -38.29846,
+    "sea_level_rise_cw2011": -40.98072917,
+    "sea_level_rise_uhslcfd": -35.61619887
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1981-01-15",
+    "sea_level_rise_average": -30.47303,
+    "sea_level_rise_cw2011": -31.08072917,
+    "sea_level_rise_uhslcfd": -29.86532757
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1981-04-15",
+    "sea_level_rise_average": -28.62912,
+    "sea_level_rise_cw2011": -26.8140625,
+    "sea_level_rise_uhslcfd": -30.44417076
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1981-07-15",
+    "sea_level_rise_average": -28.66032,
+    "sea_level_rise_cw2011": -25.98072917,
+    "sea_level_rise_uhslcfd": -31.33990185
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1981-10-15",
+    "sea_level_rise_average": -27.93232,
+    "sea_level_rise_cw2011": -25.9140625,
+    "sea_level_rise_uhslcfd": -29.95058354
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1982-01-15",
+    "sea_level_rise_average": -30.79048,
+    "sea_level_rise_cw2011": -30.2140625,
+    "sea_level_rise_uhslcfd": -31.36688839
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1982-04-15",
+    "sea_level_rise_average": -34.04954,
+    "sea_level_rise_cw2011": -35.3140625,
+    "sea_level_rise_uhslcfd": -32.7850235
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1982-07-15",
+    "sea_level_rise_average": -33.78492,
+    "sea_level_rise_cw2011": -37.88072917,
+    "sea_level_rise_uhslcfd": -29.6891142
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1982-10-15",
+    "sea_level_rise_average": -26.99358,
+    "sea_level_rise_cw2011": -28.6140625,
+    "sea_level_rise_uhslcfd": -25.37309087
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1983-01-15",
+    "sea_level_rise_average": -24.03743,
+    "sea_level_rise_cw2011": -23.54739583,
+    "sea_level_rise_uhslcfd": -24.52746798
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1983-04-15",
+    "sea_level_rise_average": -23.20008,
+    "sea_level_rise_cw2011": -18.6140625,
+    "sea_level_rise_uhslcfd": -27.78608947
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1983-07-15",
+    "sea_level_rise_average": -27.12332,
+    "sea_level_rise_cw2011": -22.28072917,
+    "sea_level_rise_uhslcfd": -31.96590356
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1983-10-15",
+    "sea_level_rise_average": -32.07189,
+    "sea_level_rise_cw2011": -30.64739583,
+    "sea_level_rise_uhslcfd": -33.49638991
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1984-01-15",
+    "sea_level_rise_average": -31.57944,
+    "sea_level_rise_cw2011": -30.48072917,
+    "sea_level_rise_uhslcfd": -32.67814249
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1984-04-15",
+    "sea_level_rise_average": -27.57409,
+    "sea_level_rise_cw2011": -25.04739583,
+    "sea_level_rise_uhslcfd": -30.10078006
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1984-07-15",
+    "sea_level_rise_average": -25.04278,
+    "sea_level_rise_cw2011": -21.7140625,
+    "sea_level_rise_uhslcfd": -28.37149093
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1984-10-15",
+    "sea_level_rise_average": -27.78992,
+    "sea_level_rise_cw2011": -24.8140625,
+    "sea_level_rise_uhslcfd": -30.76577436
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1985-01-15",
+    "sea_level_rise_average": -33.6156,
+    "sea_level_rise_cw2011": -31.68072917,
+    "sea_level_rise_uhslcfd": -35.55047791
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1985-04-15",
+    "sea_level_rise_average": -35.50844,
+    "sea_level_rise_cw2011": -35.2140625,
+    "sea_level_rise_uhslcfd": -35.80281479
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1985-07-15",
+    "sea_level_rise_average": -35.00677,
+    "sea_level_rise_cw2011": -36.98072917,
+    "sea_level_rise_uhslcfd": -33.03281913
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1985-10-15",
+    "sea_level_rise_average": -35.20057,
+    "sea_level_rise_cw2011": -36.58072917,
+    "sea_level_rise_uhslcfd": -33.82041015
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1986-01-15",
+    "sea_level_rise_average": -34.12176,
+    "sea_level_rise_cw2011": -33.8140625,
+    "sea_level_rise_uhslcfd": -34.42945832
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1986-04-15",
+    "sea_level_rise_average": -32.84495,
+    "sea_level_rise_cw2011": -33.78072917,
+    "sea_level_rise_uhslcfd": -31.90917505
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1986-07-15",
+    "sea_level_rise_average": -33.0361,
+    "sea_level_rise_cw2011": -35.18072917,
+    "sea_level_rise_uhslcfd": -30.89147752
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1986-10-15",
+    "sea_level_rise_average": -33.46858,
+    "sea_level_rise_cw2011": -36.8140625,
+    "sea_level_rise_uhslcfd": -30.1230909
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1987-01-15",
+    "sea_level_rise_average": -29.50557,
+    "sea_level_rise_cw2011": -33.84739583,
+    "sea_level_rise_uhslcfd": -25.16374092
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1987-04-15",
+    "sea_level_rise_average": -28.90509,
+    "sea_level_rise_cw2011": -34.28072917,
+    "sea_level_rise_uhslcfd": -23.52944719
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1987-07-15",
+    "sea_level_rise_average": -31.39855,
+    "sea_level_rise_cw2011": -33.24739583,
+    "sea_level_rise_uhslcfd": -29.54970982
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1987-10-15",
+    "sea_level_rise_average": -34.31563,
+    "sea_level_rise_cw2011": -37.6140625,
+    "sea_level_rise_uhslcfd": -31.01720324
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1988-01-15",
+    "sea_level_rise_average": -27.97777,
+    "sea_level_rise_cw2011": -31.4140625,
+    "sea_level_rise_uhslcfd": -24.54146997
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1988-04-15",
+    "sea_level_rise_average": -27.38584,
+    "sea_level_rise_cw2011": -31.64739583,
+    "sea_level_rise_uhslcfd": -23.12427568
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1988-07-15",
+    "sea_level_rise_average": -26.95959,
+    "sea_level_rise_cw2011": -28.84739583,
+    "sea_level_rise_uhslcfd": -25.0717923
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1988-10-15",
+    "sea_level_rise_average": -26.68788,
+    "sea_level_rise_cw2011": -26.5140625,
+    "sea_level_rise_uhslcfd": -26.86170176
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1989-01-15",
+    "sea_level_rise_average": -29.96407,
+    "sea_level_rise_cw2011": -31.84739583,
+    "sea_level_rise_uhslcfd": -28.08075032
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1989-04-15",
+    "sea_level_rise_average": -24.26904,
+    "sea_level_rise_cw2011": -24.6140625,
+    "sea_level_rise_uhslcfd": -23.92402054
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1989-07-15",
+    "sea_level_rise_average": -23.32165,
+    "sea_level_rise_cw2011": -25.14739583,
+    "sea_level_rise_uhslcfd": -21.49591391
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1989-10-15",
+    "sea_level_rise_average": -21.8144,
+    "sea_level_rise_cw2011": -22.24739583,
+    "sea_level_rise_uhslcfd": -21.38139724
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1990-01-15",
+    "sea_level_rise_average": -23.40021,
+    "sea_level_rise_cw2011": -25.24739583,
+    "sea_level_rise_uhslcfd": -21.5530319
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1990-04-15",
+    "sea_level_rise_average": -24.06558,
+    "sea_level_rise_cw2011": -28.3140625,
+    "sea_level_rise_uhslcfd": -19.81709396
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1990-07-15",
+    "sea_level_rise_average": -18.38446,
+    "sea_level_rise_cw2011": -22.84739583,
+    "sea_level_rise_uhslcfd": -13.92152244
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1990-10-15",
+    "sea_level_rise_average": -16.3655,
+    "sea_level_rise_cw2011": -19.48072917,
+    "sea_level_rise_uhslcfd": -13.2502719
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1991-01-15",
+    "sea_level_rise_average": -18.15554,
+    "sea_level_rise_cw2011": -20.34739583,
+    "sea_level_rise_uhslcfd": -15.96368124
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1991-04-15",
+    "sea_level_rise_average": -17.5856,
+    "sea_level_rise_cw2011": -21.8140625,
+    "sea_level_rise_uhslcfd": -13.35714507
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1991-07-15",
+    "sea_level_rise_average": -15.89548,
+    "sea_level_rise_cw2011": -22.8140625,
+    "sea_level_rise_uhslcfd": -8.976906274
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1991-10-15",
+    "sea_level_rise_average": -12.68882,
+    "sea_level_rise_cw2011": -18.94739583,
+    "sea_level_rise_uhslcfd": -6.43025132
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1992-01-15",
+    "sea_level_rise_average": -11.17667,
+    "sea_level_rise_cw2011": -16.38072917,
+    "sea_level_rise_uhslcfd": -5.97261987
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1992-04-15",
+    "sea_level_rise_average": -13.23923,
+    "sea_level_rise_cw2011": -17.4140625,
+    "sea_level_rise_uhslcfd": -9.064392998
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1992-07-15",
+    "sea_level_rise_average": -16.47831,
+    "sea_level_rise_cw2011": -20.24739583,
+    "sea_level_rise_uhslcfd": -12.70923305
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1992-10-15",
+    "sea_level_rise_average": -16.6333,
+    "sea_level_rise_cw2011": -17.8140625,
+    "sea_level_rise_uhslcfd": -15.4525379
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1993-01-15",
+    "sea_level_rise_average": -18.13835,
+    "sea_level_rise_cw2011": -19.58072917,
+    "sea_level_rise_uhslcfd": -16.69596631
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1993-04-15",
+    "sea_level_rise_average": -16.58892,
+    "sea_level_rise_cw2011": -16.3140625,
+    "sea_level_rise_uhslcfd": -16.8637797
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1993-07-15",
+    "sea_level_rise_average": -22.54011,
+    "sea_level_rise_cw2011": -22.78072917,
+    "sea_level_rise_uhslcfd": -22.29949291
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1993-10-15",
+    "sea_level_rise_average": -27.44191,
+    "sea_level_rise_cw2011": -28.7140625,
+    "sea_level_rise_uhslcfd": -26.1697558
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1994-01-15",
+    "sea_level_rise_average": -21.28105,
+    "sea_level_rise_cw2011": -22.34739583,
+    "sea_level_rise_uhslcfd": -20.21470482
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1994-04-15",
+    "sea_level_rise_average": -17.63631,
+    "sea_level_rise_cw2011": -20.08072917,
+    "sea_level_rise_uhslcfd": -15.19189433
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1994-07-15",
+    "sea_level_rise_average": -17.08159,
+    "sea_level_rise_cw2011": -17.98072917,
+    "sea_level_rise_uhslcfd": -16.18246063
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1994-10-15",
+    "sea_level_rise_average": -16.77565,
+    "sea_level_rise_cw2011": -18.24739583,
+    "sea_level_rise_uhslcfd": -15.30390294
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1995-01-15",
+    "sea_level_rise_average": -13.53047,
+    "sea_level_rise_cw2011": -16.34739583,
+    "sea_level_rise_uhslcfd": -10.71353651
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1995-04-15",
+    "sea_level_rise_average": -12.13451,
+    "sea_level_rise_cw2011": -15.28072917,
+    "sea_level_rise_uhslcfd": -8.988283445
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1995-07-15",
+    "sea_level_rise_average": -13.28908,
+    "sea_level_rise_cw2011": -15.58072917,
+    "sea_level_rise_uhslcfd": -10.99742126
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1995-10-15",
+    "sea_level_rise_average": -10.50725,
+    "sea_level_rise_cw2011": -11.54739583,
+    "sea_level_rise_uhslcfd": -9.467108624
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1996-01-15",
+    "sea_level_rise_average": -7.05866,
+    "sea_level_rise_cw2011": -7.247395833,
+    "sea_level_rise_uhslcfd": -6.869924627
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1996-04-15",
+    "sea_level_rise_average": -12.19906,
+    "sea_level_rise_cw2011": -15.18072917,
+    "sea_level_rise_uhslcfd": -9.217386527
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1996-07-15",
+    "sea_level_rise_average": -11.45393,
+    "sea_level_rise_cw2011": -11.94739583,
+    "sea_level_rise_uhslcfd": -10.96045959
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1996-10-15",
+    "sea_level_rise_average": -7.3501,
+    "sea_level_rise_cw2011": -5.147395833,
+    "sea_level_rise_uhslcfd": -9.552796407
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1997-01-15",
+    "sea_level_rise_average": -6.43646,
+    "sea_level_rise_cw2011": -6.480729167,
+    "sea_level_rise_uhslcfd": -6.392200361
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1997-04-15",
+    "sea_level_rise_average": -1.21115,
+    "sea_level_rise_cw2011": 0.119270833,
+    "sea_level_rise_uhslcfd": -2.541574166
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1997-07-15",
+    "sea_level_rise_average": -2.55864,
+    "sea_level_rise_cw2011": -2.647395833,
+    "sea_level_rise_uhslcfd": -2.469881973
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1997-10-15",
+    "sea_level_rise_average": -2.01091,
+    "sea_level_rise_cw2011": -2.1140625,
+    "sea_level_rise_uhslcfd": -1.907755576
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1998-01-15",
+    "sea_level_rise_average": -2.18943,
+    "sea_level_rise_cw2011": -1.847395833,
+    "sea_level_rise_uhslcfd": -2.531473513
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1998-04-15",
+    "sea_level_rise_average": -10.06429,
+    "sea_level_rise_cw2011": -11.64739583,
+    "sea_level_rise_uhslcfd": -8.481188102
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1998-07-15",
+    "sea_level_rise_average": -10.49035,
+    "sea_level_rise_cw2011": -10.8140625,
+    "sea_level_rise_uhslcfd": -10.16664232
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1998-10-15",
+    "sea_level_rise_average": -8.18047,
+    "sea_level_rise_cw2011": -9.1140625,
+    "sea_level_rise_uhslcfd": -7.24687525
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1999-01-15",
+    "sea_level_rise_average": -5.99732,
+    "sea_level_rise_cw2011": -8.480729167,
+    "sea_level_rise_uhslcfd": -3.51390462
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1999-04-15",
+    "sea_level_rise_average": -0.90868,
+    "sea_level_rise_cw2011": -0.647395833,
+    "sea_level_rise_uhslcfd": -1.169963654
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1999-07-15",
+    "sea_level_rise_average": -0.60471,
+    "sea_level_rise_cw2011": -0.247395833,
+    "sea_level_rise_uhslcfd": -0.962018013
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "1999-10-15",
+    "sea_level_rise_average": -2.45536,
+    "sea_level_rise_cw2011": -3.080729167,
+    "sea_level_rise_uhslcfd": -1.829999251
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2000-01-15",
+    "sea_level_rise_average": -5.17582,
+    "sea_level_rise_cw2011": -8.347395833,
+    "sea_level_rise_uhslcfd": -2.00424797
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2000-04-15",
+    "sea_level_rise_average": 0.16507,
+    "sea_level_rise_cw2011": 0.7859375,
+    "sea_level_rise_uhslcfd": -0.455801584
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2000-07-15",
+    "sea_level_rise_average": 0.32859,
+    "sea_level_rise_cw2011": 2.952604167,
+    "sea_level_rise_uhslcfd": -2.295423072
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2000-10-15",
+    "sea_level_rise_average": -3.5678,
+    "sea_level_rise_cw2011": -4.6140625,
+    "sea_level_rise_uhslcfd": -2.521531098
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2001-01-15",
+    "sea_level_rise_average": 0.73735,
+    "sea_level_rise_cw2011": -0.8140625,
+    "sea_level_rise_uhslcfd": 2.288764482
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2001-04-15",
+    "sea_level_rise_average": 3.42258,
+    "sea_level_rise_cw2011": 2.752604167,
+    "sea_level_rise_uhslcfd": 4.092562893
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2001-07-15",
+    "sea_level_rise_average": 4.0327,
+    "sea_level_rise_cw2011": 4.719270833,
+    "sea_level_rise_uhslcfd": 3.346121297
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2001-10-15",
+    "sea_level_rise_average": 3.39856,
+    "sea_level_rise_cw2011": 3.319270833,
+    "sea_level_rise_uhslcfd": 3.477857781
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2002-01-15",
+    "sea_level_rise_average": -1.05837,
+    "sea_level_rise_cw2011": -2.780729167,
+    "sea_level_rise_uhslcfd": 0.663981094
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2002-04-15",
+    "sea_level_rise_average": -1.56778,
+    "sea_level_rise_cw2011": -1.047395833,
+    "sea_level_rise_uhslcfd": -2.088163757
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2002-07-15",
+    "sea_level_rise_average": 1.08633,
+    "sea_level_rise_cw2011": 2.152604167,
+    "sea_level_rise_uhslcfd": 0.020047084
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2002-10-15",
+    "sea_level_rise_average": 3.36992,
+    "sea_level_rise_cw2011": 5.219270833,
+    "sea_level_rise_uhslcfd": 1.520559341
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2003-01-15",
+    "sea_level_rise_average": 3.24694,
+    "sea_level_rise_cw2011": 4.3859375,
+    "sea_level_rise_uhslcfd": 2.107942879
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2003-04-15",
+    "sea_level_rise_average": 5.28813,
+    "sea_level_rise_cw2011": 5.919270833,
+    "sea_level_rise_uhslcfd": 4.656994466
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2003-07-15",
+    "sea_level_rise_average": 10.77244,
+    "sea_level_rise_cw2011": 14.61927083,
+    "sea_level_rise_uhslcfd": 6.925613295
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2003-10-15",
+    "sea_level_rise_average": 11.86577,
+    "sea_level_rise_cw2011": 15.71927083,
+    "sea_level_rise_uhslcfd": 8.012265803
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2004-01-15",
+    "sea_level_rise_average": 7.56092,
+    "sea_level_rise_cw2011": 8.252604167,
+    "sea_level_rise_uhslcfd": 6.869239997
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2004-04-15",
+    "sea_level_rise_average": 7.7018,
+    "sea_level_rise_cw2011": 9.152604167,
+    "sea_level_rise_uhslcfd": 6.250996375
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2004-07-15",
+    "sea_level_rise_average": 10.59808,
+    "sea_level_rise_cw2011": 13.65260417,
+    "sea_level_rise_uhslcfd": 7.543565438
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2004-10-15",
+    "sea_level_rise_average": 8.70617,
+    "sea_level_rise_cw2011": 9.9859375,
+    "sea_level_rise_uhslcfd": 7.426393354
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2005-01-15",
+    "sea_level_rise_average": 9.02399,
+    "sea_level_rise_cw2011": 10.61927083,
+    "sea_level_rise_uhslcfd": 7.428710794
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2005-04-15",
+    "sea_level_rise_average": 9.13256,
+    "sea_level_rise_cw2011": 10.05260417,
+    "sea_level_rise_uhslcfd": 8.212508202
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2005-07-15",
+    "sea_level_rise_average": 10.4647,
+    "sea_level_rise_cw2011": 12.11927083,
+    "sea_level_rise_uhslcfd": 8.810124129
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2005-10-15",
+    "sea_level_rise_average": 7.78977,
+    "sea_level_rise_cw2011": 6.352604167,
+    "sea_level_rise_uhslcfd": 9.226936095
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2006-01-15",
+    "sea_level_rise_average": 9.36491,
+    "sea_level_rise_cw2011": 6.652604167,
+    "sea_level_rise_uhslcfd": 12.07722324
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2006-04-15",
+    "sea_level_rise_average": 14.76707,
+    "sea_level_rise_cw2011": 14.11927083,
+    "sea_level_rise_uhslcfd": 15.41486092
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2006-07-15",
+    "sea_level_rise_average": 12.41419,
+    "sea_level_rise_cw2011": 9.519270833,
+    "sea_level_rise_uhslcfd": 15.30910579
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2006-10-15",
+    "sea_level_rise_average": 13.23097,
+    "sea_level_rise_cw2011": 13.65260417,
+    "sea_level_rise_uhslcfd": 12.80933042
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2007-01-15",
+    "sea_level_rise_average": 6.52432,
+    "sea_level_rise_cw2011": 4.3859375,
+    "sea_level_rise_uhslcfd": 8.66270068
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2007-04-15",
+    "sea_level_rise_average": 10.04572,
+    "sea_level_rise_cw2011": 10.3859375,
+    "sea_level_rise_uhslcfd": 9.70550625
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2007-07-15",
+    "sea_level_rise_average": 18.53728,
+    "sea_level_rise_cw2011": 22.7859375,
+    "sea_level_rise_uhslcfd": 14.2886166
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2007-10-15",
+    "sea_level_rise_average": 16.01026,
+    "sea_level_rise_cw2011": 17.51927083,
+    "sea_level_rise_uhslcfd": 14.50124987
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2008-01-15",
+    "sea_level_rise_average": 16.56862,
+    "sea_level_rise_cw2011": 17.55260417,
+    "sea_level_rise_uhslcfd": 15.58462623
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2008-04-15",
+    "sea_level_rise_average": 23.63056,
+    "sea_level_rise_cw2011": 25.35260417,
+    "sea_level_rise_uhslcfd": 21.90851915
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2008-07-15",
+    "sea_level_rise_average": 27.62711,
+    "sea_level_rise_cw2011": 30.45260417,
+    "sea_level_rise_uhslcfd": 24.80161176
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2008-10-15",
+    "sea_level_rise_average": 22.07113,
+    "sea_level_rise_cw2011": 23.81927083,
+    "sea_level_rise_uhslcfd": 20.322983
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2009-01-15",
+    "sea_level_rise_average": 18.8664,
+    "sea_level_rise_cw2011": 19.31927083,
+    "sea_level_rise_uhslcfd": 18.41353077
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2009-04-15",
+    "sea_level_rise_average": 23.53385,
+    "sea_level_rise_cw2011": 24.65260417,
+    "sea_level_rise_uhslcfd": 22.4150906
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2009-07-15",
+    "sea_level_rise_average": 31.03554,
+    "sea_level_rise_cw2011": 33.65260417,
+    "sea_level_rise_uhslcfd": 28.418468
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2009-10-15",
+    "sea_level_rise_average": 36.90731,
+    "sea_level_rise_cw2011": 38.0859375,
+    "sea_level_rise_uhslcfd": 35.72867628
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2010-01-15",
+    "sea_level_rise_average": 38.77694,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 38.77693523
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2010-04-15",
+    "sea_level_rise_average": 34.88547,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 34.88547268
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2010-07-15",
+    "sea_level_rise_average": 33.87824,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 33.87824005
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2010-10-15",
+    "sea_level_rise_average": 37.25103,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 37.25102558
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2011-01-15",
+    "sea_level_rise_average": 37.34795,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 37.34794901
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2011-04-15",
+    "sea_level_rise_average": 35.97776,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 35.97776181
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2011-07-15",
+    "sea_level_rise_average": 36.71847,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 36.71847075
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2011-10-15",
+    "sea_level_rise_average": 34.68251,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 34.68250576
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2012-01-15",
+    "sea_level_rise_average": 34.20025,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 34.20024888
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2012-04-15",
+    "sea_level_rise_average": 41.72089,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 41.72088544
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2012-07-15",
+    "sea_level_rise_average": 47.1739,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 47.17390325
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2012-10-15",
+    "sea_level_rise_average": 46.27147,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 46.27147442
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2013-01-15",
+    "sea_level_rise_average": 44.80457,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 44.80457051
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2013-04-15",
+    "sea_level_rise_average": 44.57792,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 44.57791577
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2013-07-15",
+    "sea_level_rise_average": 41.33799,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 41.33798668
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2013-10-15",
+    "sea_level_rise_average": 37.38712,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 37.3871177
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2014-01-15",
+    "sea_level_rise_average": 41.26864,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 41.26864169
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2014-04-15",
+    "sea_level_rise_average": 48.81691,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 48.81691195
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2014-07-15",
+    "sea_level_rise_average": 53.85737,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 53.85737212
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2014-10-15",
+    "sea_level_rise_average": 55.67588,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 55.67588286
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2015-01-15",
+    "sea_level_rise_average": 53.26458,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 53.2645778
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2015-04-15",
+    "sea_level_rise_average": 50.08209,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 50.08209017
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2015-07-15",
+    "sea_level_rise_average": 50.46171,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 50.46170567
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2015-10-15",
+    "sea_level_rise_average": 54.90935,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 54.90935276
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2016-01-15",
+    "sea_level_rise_average": 58.72329,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 58.72328655
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2016-04-15",
+    "sea_level_rise_average": 56.71159,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 56.71159225
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2016-07-15",
+    "sea_level_rise_average": 54.34696,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 54.34696367
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2016-10-15",
+    "sea_level_rise_average": 55.541,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 55.54100329
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2017-01-15",
+    "sea_level_rise_average": 54.96168,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 54.96168128
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2017-04-15",
+    "sea_level_rise_average": 55.61237,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 55.6123727
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2017-07-15",
+    "sea_level_rise_average": 57.35599,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 57.35599133
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2017-10-15",
+    "sea_level_rise_average": 52.51952,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 52.51951993
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2018-01-15",
+    "sea_level_rise_average": 49.37086,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 49.37085909
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2018-04-15",
+    "sea_level_rise_average": 52.57545,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 52.57545138
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2018-07-15",
+    "sea_level_rise_average": 53.08512,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 53.08512198
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2018-10-15",
+    "sea_level_rise_average": 53.30166,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 53.30166183
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2019-01-15",
+    "sea_level_rise_average": 56.60749,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 56.6074862
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2019-04-15",
+    "sea_level_rise_average": 58.67191,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 58.67190583
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2019-07-15",
+    "sea_level_rise_average": 61.39371,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 61.39371322
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2019-10-15",
+    "sea_level_rise_average": 67.24985,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 67.2498485
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2020-01-15",
+    "sea_level_rise_average": 68.81163,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 68.81162977
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2020-04-15",
+    "sea_level_rise_average": 66.73996,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 66.73996192
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2020-07-15",
+    "sea_level_rise_average": 66.70433,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 66.70432506
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Day": "2020-10-15",
+    "sea_level_rise_average": 61.74304,
+    "sea_level_rise_cw2011": "",
+    "sea_level_rise_uhslcfd": 61.74303963
+  }
+]

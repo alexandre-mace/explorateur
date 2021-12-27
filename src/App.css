@@ -19,7 +19,7 @@ h1 {
     font-size: calc(22px + 2vw);
 }
 .presentation h2 {
-    font-size: 1.4rem;
+    font-size: calc(17px + 0.4vw);
     font-weight: 500;
     margin-top: .2rem;
     max-width: 700px;
