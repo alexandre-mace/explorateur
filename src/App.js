@@ -65,7 +65,7 @@ const themes = [
 let customTheme = createTheme({
     palette: {
         primary: {
-            main: '#000000',
+            main: '#6478ff',
         }
     },
 });

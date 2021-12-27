@@ -53,10 +53,17 @@ const GhgEmissionsPerCountry = (props) => {
                                     value={countries}
                                     onChange={(value) => {
                                         if (typeof value.target.innerText === 'undefined') {
+                                            let countryToRemove = '';
+                                            if (value.target.parentElement.textContent !== '') {
+                                                countryToRemove = value.target.parentElement.textContent
+                                            } else if (value.target.parentElement.parentElement.textContent !== '') {
+                                                countryToRemove = value.target.parentElement.parentElement.textContent
+                                            }
+
                                             setCountries([...countries].filter(
-                                                country => country !== value.target.parentElement.parentElement.textContent
+                                                country => country !== countryToRemove
                                             ))
-                                            return
+                                            return;
                                         }
                                         if (value.target.innerText !== 'undefined') {
                                             setCountries([...countries, value.target.innerText])
