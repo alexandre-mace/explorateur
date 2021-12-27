@@ -3,14 +3,9 @@ import Highcharts from 'highcharts';
 import HighchartsReact from 'highcharts-react-official';
 import highcharts3d from "highcharts/highcharts-3d";
 import FormControl from '@mui/material/FormControl';
-import {Autocomplete, IconButton, TextField} from "@mui/material";
+import {Autocomplete, TextField} from "@mui/material";
 import useWindowDimensions from "../../utils/useWindowDimensions";
-import {
-    getOptions,
-    mobilePieOptions, mobileStackedAreaOptions,
-    pieOptions,
-    stackedAreaOptions
-} from "../../options/chartOptions";
+import {getOptions} from "../../options/chartOptions";
 import seriesLabel from 'highcharts/modules/series-label';
 import getCo2ByFuel from "../../data/adapter/getCo2ByFuel";
 import ChartLoader from "../ChartLoader";

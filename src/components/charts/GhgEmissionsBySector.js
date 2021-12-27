@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React  from 'react';
 import Highcharts from 'highcharts';
 import HighchartsReact from 'highcharts-react-official';
 import highcharts3d from "highcharts/highcharts-3d";
@@ -6,12 +6,7 @@ import FormControl from '@mui/material/FormControl';
 import {Autocomplete, TextField} from "@mui/material";
 import useWindowDimensions from "../../utils/useWindowDimensions";
 import getGhgBySector from "../../data/adapter/getGhgBySector";
-import {
-    getOptions,
-    mobilePieOptions, mobileStackedAreaOptions,
-    pieOptions,
-    stackedAreaOptions
-} from "../../options/chartOptions";
+import {getOptions} from "../../options/chartOptions";
 import seriesLabel from 'highcharts/modules/series-label';
 import ChartLoader from "../ChartLoader";
 import handleCountryChange from "../../utils/handleCountryChange";
