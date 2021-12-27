@@ -3,11 +3,16 @@ import Highcharts from 'highcharts';
 import HighchartsReact from 'highcharts-react-official';
 import useWindowDimensions from "../../utils/useWindowDimensions";
 import {areaOptions, mobileAreaOptions} from "../../options/chartOptions";
-import getTemperatureAnomaly from "../data/adapter/getTemperatureAnomaly";
+import getTemperatureAnomaly from "../../data/adapter/getTemperatureAnomaly";
+import ChartLoader from "../ChartLoader";
+import ChartTitle from "../ChartTitle";
+import ChartSources from "../ChartSources";
+import ChartTypes from "../ChartTypes";
 
 const TemperatureAnomaly = (props) => {
     const [dataset, setDataset] = React.useState(null)
     const {width} = useWindowDimensions();
+    const [chart, setChart] = React.useState('area')
 
     React.useLayoutEffect(() => {
         let data = getTemperatureAnomaly();
@@ -17,48 +22,48 @@ const TemperatureAnomaly = (props) => {
     return (
         <>
             {dataset === null &&
-                <div className="row">
-                    <div className="col text-center">
-                        'Chargement...'
-                    </div>
-                </div>
+                <ChartLoader/>
             }
-
 
             {dataset !== null &&
                 <>
-                    <HighchartsReact
-                        highcharts={Highcharts}
-                        options={{
-                            ...(width > 500 ? areaOptions : mobileAreaOptions),
-                            ...{
-                                xAxis: {
-                                    categories: dataset.dates,
-                                    tickmarkPlacement: 'on',
-                                    title: {
-                                        enabled: false
+                    <div className="row pb-4 pt-2 justify-content-end">
+                        <div className="col-auto">
+                            <ChartTypes chart={chart} setChart={setChart} chartTypes={['area']}/>
+                        </div>
+                    </div>
+
+                    <div className="row">
+                        <div className="col">
+                            <HighchartsReact
+                                highcharts={Highcharts}
+                                options={{
+                                    ...(width > 500 ? areaOptions : mobileAreaOptions),
+                                    ...{
+                                        xAxis: {
+                                            categories: dataset.dates,
+                                            tickmarkPlacement: 'on',
+                                            title: {
+                                                enabled: false
+                                            },
+                                        },
+                                        yAxis: {
+                                            title: {
+                                                text: '°C'
+                                            },
+                                        },
                                     },
-                                },
-                                yAxis: {
-                                    title: {
-                                        text: '°C'
-                                    },
-                                },
-                            },
-                            ...{series: dataset.data}
-                        }}
-                        {...props}
+                                    ...{series: dataset.data}
+                                }}
+                                {...props}
+                            />
+                        </div>
+                    </div>
+                    <ChartTitle title={"Réchauffement climatique"}/>
+                    <ChartSources
+                        sourcesLink={"https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions"}
+                        sourcesName={"OWID"}
                     />
-                    <div className="row">
-                        <div className="col text-center">
-                            <h4 className={"mt-2"}>Réchauffement climatique</h4>
-                        </div>
-                    </div>
-                    <div className="row">
-                        <div className="col text-center">
-                            <a className={"sources"} href="https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=All%20Selected&page=1">Sources (CAIT)</a>
-                        </div>
-                    </div>
                 </>
             }
         </>

@@ -247,4 +247,21 @@ const mobileAreaOptions = {
     },
 };
 
-export {pieOptions, mobilePieOptions, stackedAreaOptions, mobileStackedAreaOptions, areaOptions, mobileAreaOptions}
+const getOptions = (chart, width) => {
+    if (chart === 'pie') {
+        return width > 500 ? pieOptions : mobilePieOptions
+    }
+    if (chart === 'area') {
+        return width > 500 ? stackedAreaOptions : mobileStackedAreaOptions
+    }
+}
+
+export {
+    pieOptions,
+    mobilePieOptions,
+    stackedAreaOptions,
+    mobileStackedAreaOptions,
+    areaOptions,
+    mobileAreaOptions,
+    getOptions
+}

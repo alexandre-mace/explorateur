@@ -5,10 +5,13 @@ import React from "react";
 import FormControl from "@mui/material/FormControl";
 import {Autocomplete, createTheme, TextField, ThemeProvider} from "@mui/material";
 import TemperatureAnomaly from "./components/charts/TemperatureAnomaly";
+import Co2BySource from "./components/charts/Co2BySource";
 const AtmosphericConcentration = 'Concentration atmosphérique'
 const GesEmissions = 'Émissions de GES (Gaz à effet de serre)'
+const Co2Emissions = 'Émissions de CO2'
 const ClimateChange = 'Changement climatique'
 const bySector = 'Par secteur'
+const bySource = 'Par source'
 const co2 = 'CO2'
 const temperature = 'Température'
 
@@ -16,6 +19,10 @@ const themes = [
     {
         'name': GesEmissions,
         'indicators': [bySector]
+    },
+    {
+        'name': Co2Emissions,
+        'indicators': [bySource]
     },
     {
         'name': AtmosphericConcentration,
@@ -108,6 +115,13 @@ function App() {
                   <>
                       {indicator === bySector &&
                           <GhgEmissionsBySector/>
+                      }
+                  </>
+              }
+              {theme === Co2Emissions &&
+                  <>
+                      {indicator === bySource &&
+                          <Co2BySource/>
                       }
                   </>
               }
