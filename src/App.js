@@ -43,7 +43,7 @@ const iceSheetsMass = '🧊 Modification de la masse des calottes glaciaires'
 const Energy = '🧃 Énergie'
 const Electricity = '⚡ Électricité'
 const directPrimaryConsumptionBySource = 'Énergie primaire (directe) par source'
-const finalConsumptionBySource = 'Énergie final par source'
+const finalConsumptionBySource = 'Énergie finale par source'
 const electricityProductionBySource = 'Production d\'électricité par source'
 
 const themes = [
