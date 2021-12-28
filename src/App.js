@@ -5,7 +5,7 @@ import React from "react";
 import FormControl from "@mui/material/FormControl";
 import {Autocomplete, createTheme, TextField, ThemeProvider} from "@mui/material";
 import TemperatureAnomaly from "./components/charts/TemperatureAnomaly";
-import Co2ByFuel from "./components/charts/Co2ByFuel";
+import {Co2ByFuelAsync} from "./components/async";
 import Co2ConsumptionPerCountry from "./components/charts/Co2ConsumptionPerCountry";
 import Co2ConsumptionPerCapita from "./components/charts/Co2ConsumptionPerCapita";
 import GhgEmissionsPerCountry from "./components/charts/GhgEmissionsPerCountry";
@@ -192,7 +192,7 @@ function App() {
               {theme === Co2Emissions &&
                   <>
                       {indicator === byFuel &&
-                          <Co2ByFuel/>
+                          <Co2ByFuelAsync/>
                       }
                       {indicator === bySector &&
                           <Co2BySector/>
