@@ -75,7 +75,7 @@ const getGhgEmissionsBySectorPerCapita = (country, year) => {
 }
 
 const convertLabels = (label) => {
-    let convertedLabel = label.replace(' (per capita) (GHG Emissions, CAIT) ', '')
+    let convertedLabel = label.replace(' (per capita) (GHG Emissions, CAIT)', '')
     return  convertedLabel.charAt(0).toUpperCase() + convertedLabel.slice(1);
 }
 

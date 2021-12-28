@@ -1,25 +1,25 @@
 import './App.css';
-import GhgEmissionsBySector from "./components/charts/GhgEmissionsBySector";
 import Co2AtmosphericConcentration from "./components/charts/Co2AtmosphericConcentration";
 import React from "react";
 import FormControl from "@mui/material/FormControl";
 import {Autocomplete, createTheme, TextField, ThemeProvider} from "@mui/material";
 import TemperatureAnomaly from "./components/charts/TemperatureAnomaly";
-import {Co2ByFuelAsync} from "./components/async";
+import {Co2ByFuel} from "./components/async";
+import {GhgEmissionsBySector} from "./components/async";
+import {Ch4EmissionsBySector} from "./components/async";
+import {Co2BySector} from "./components/async";
+import {ElectricityProductionBySource} from "./components/async";
+import {GhgEmissionsBySectorPerCapita} from "./components/async";
+import {NitrousOxideBySector} from "./components/async";
 import Co2ConsumptionPerCountry from "./components/charts/Co2ConsumptionPerCountry";
 import Co2ConsumptionPerCapita from "./components/charts/Co2ConsumptionPerCapita";
 import GhgEmissionsPerCountry from "./components/charts/GhgEmissionsPerCountry";
 import GhgEmissionsPerCapita from "./components/charts/GhgEmissionsPerCapita";
 import GhgEmissionsByGas from "./components/charts/GhgEmissionsByGas";
-import GhgEmissionsBySectorPerCapita from "./components/charts/GhgEmissionsBySectorPerCapita";
-import Co2BySector from "./components/charts/Co2BySector";
-import Ch4EmissionsBySector from "./components/charts/Ch4EmissionsBySector";
-import NitrousOxideEmissionsBySector from "./components/charts/NitrousOxideBySector";
 import SeaLevelRise from "./components/charts/SeaLevelRise";
 import OceanPh from "./components/charts/OceanPh";
 import IceSheetsMass from "./components/charts/IceSheetsMass";
 import PrimaryDirectEnergyConsumptionBySource from "./components/charts/PrimaryDirectEnergyConsumptionBySource";
-import ElectricityProductionBySource from "./components/charts/ElectricityProductionBySource";
 const co2AtmosphericConcentration = 'Concentration atmosphérique de CO2'
 const GesEmissions = 'Émissions de GES (Gaz à effet de serre)'
 const Co2Emissions = 'Émissions de CO2'
@@ -155,7 +155,7 @@ function App() {
               </div>
           </div>
 
-          <div className={"container chart-wrapper py-3"}>
+          <div className={"container position-relative chart-wrapper py-3"}>
               {theme === Energy &&
                   <>
                       {indicator === directPrimaryConsumptionBySource &&
@@ -192,7 +192,7 @@ function App() {
               {theme === Co2Emissions &&
                   <>
                       {indicator === byFuel &&
-                          <Co2ByFuelAsync/>
+                          <Co2ByFuel/>
                       }
                       {indicator === bySector &&
                           <Co2BySector/>
@@ -215,7 +215,7 @@ function App() {
               {theme === NitrousOxydeEmissions &&
                   <>
                       {indicator === bySector &&
-                          <NitrousOxideEmissionsBySector/>
+                          <NitrousOxideBySector/>
                       }
                   </>
               }

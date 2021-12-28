@@ -1,19 +1,31 @@
 import loadable from '@loadable/component'
-import {TemperatureAnomaly as TemperatureAnomalySync} from "../components/charts/TemperatureAnomaly";
-import Co2ByFuel from "../components/charts/Co2ByFuel";
-import {Co2ConsumptionPerCountry as Co2ConsumptionPerCountrySync} from "../components/charts/Co2ConsumptionPerCountry";
-import {Co2ConsumptionPerCapita as Co2ConsumptionPerCapitaSync} from "../components/charts/Co2ConsumptionPerCapita";
-import {GhgEmissionsPerCountry as GhgEmissionsPerCountrySync} from "../components/charts/GhgEmissionsPerCountry";
-import {GhgEmissionsPerCapita as GhgEmissionsPerCapitaSync} from "../components/charts/GhgEmissionsPerCapita";
-import {GhgEmissionsByGas as GhgEmissionsByGasSync} from "../components/charts/GhgEmissionsByGas";
-import {GhgEmissionsBySectorPerCapita as GhgEmissionsBySectorPerCapitaSync} from "../components/charts/GhgEmissionsBySectorPerCapita";
-import {Co2BySector as Co2BySectorSync} from "../components/charts/Co2BySector";
-import {Ch4EmissionsBySector as Ch4EmissionsBySectorSync} from "../components/charts/Ch4EmissionsBySector";
-import {NitrousOxideEmissionsBySector as NitrousOxideEmissionsBySectorSync} from "../components/charts/NitrousOxideBySector";
-import {SeaLevelRise as SeaLevelRiseSync} from "../components/charts/SeaLevelRise";
-import {OceanPh as OceanPhSync} from "../components/charts/OceanPh";
-import {IceSheetsMass as IceSheetsMassSync} from "../components/charts/IceSheetsMass";
-import {PrimaryDirectEnergyConsumptionBySource as PrimaryDirectEnergyConsumptionBySourceSync} from "../components/charts/PrimaryDirectEnergyConsumptionBySource";
-import {ElectricityProductionBySource as ElectricityProductionBySourceSync} from "../components/charts/ElectricityProductionBySource";
+import React from "react";
 
-export const Co2ByFuelAsync = loadable(() => import("../components/charts/Co2ByFuel"))
+const Loading = () =>
+    <div style={{position: 'absolute', left: '50%', top: '50%', transform: 'translate(-50%, -50%)', fontSize: '2rem'}}>
+        <div className="d-flex h-100 w-100 align-items-center justify-content-center text-center">
+            🌍 Explorateur
+        </div>
+    </div>
+
+export const Co2ByFuel = loadable(() => import("../components/charts/Co2ByFuel"), {
+    fallback: Loading(),
+})
+export const GhgEmissionsBySector = loadable(() => import("../components/charts/GhgEmissionsBySector"), {
+    fallback: Loading(),
+})
+export const Ch4EmissionsBySector = loadable(() => import("../components/charts/Ch4EmissionsBySector"), {
+    fallback: Loading(),
+})
+export const Co2BySector = loadable(() => import("../components/charts/Co2BySector"), {
+    fallback: Loading(),
+})
+export const ElectricityProductionBySource = loadable(() => import("../components/charts/ElectricityProductionBySource"), {
+    fallback: Loading(),
+})
+export const GhgEmissionsBySectorPerCapita = loadable(() => import("../components/charts/GhgEmissionsBySectorPerCapita"), {
+    fallback: Loading(),
+})
+export const NitrousOxideBySector = loadable(() => import("../components/charts/NitrousOxideBySector"), {
+    fallback: Loading(),
+})
