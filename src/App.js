@@ -18,6 +18,8 @@ import NitrousOxideEmissionsBySector from "./components/charts/NitrousOxideBySec
 import SeaLevelRise from "./components/charts/SeaLevelRise";
 import OceanPh from "./components/charts/OceanPh";
 import IceSheetsMass from "./components/charts/IceSheetsMass";
+import PrimaryDirectEnergyConsumptionBySource from "./components/charts/PrimaryDirectEnergyConsumptionBySource";
+import ElectricityProductionBySource from "./components/charts/ElectricityProductionBySource";
 const co2AtmosphericConcentration = 'Concentration atmosphérique de CO2'
 const GesEmissions = 'Émissions de GES (Gaz à effet de serre)'
 const Co2Emissions = 'Émissions de CO2'
@@ -37,8 +39,20 @@ const oceanPh = 'Acidification de l\'océan'
 const byCountryConsumptionAdjusted = 'Par pays (ajusté par la consommation)'
 const perCapitaConsumptionAdjusted = 'Par personne (ajusté par la consommation)'
 const iceSheetsMass = 'Modification de la masse des calottes glaciaires'
+const Energy = 'Énergie'
+const Electricity = 'Électricité'
+const directPrimaryConsumptionBySource = 'Énergie primaire (directe) par source'
+const electricityProductionBySource = 'Production d\'électricité par source'
 
 const themes = [
+    {
+        'name': Energy,
+        'indicators': [directPrimaryConsumptionBySource]
+    },
+    {
+        'name': Electricity,
+        'indicators': [electricityProductionBySource]
+    },
     {
         'name': GesEmissions,
         'indicators': [bySector, bySectorPerCapita, byCountry, perCapita, byGaz]
@@ -142,6 +156,20 @@ function App() {
           </div>
 
           <div className={"container chart-wrapper py-3"}>
+              {theme === Energy &&
+                  <>
+                      {indicator === directPrimaryConsumptionBySource &&
+                          <PrimaryDirectEnergyConsumptionBySource/>
+                      }
+                  </>
+              }
+              {theme === Electricity &&
+                  <>
+                      {indicator === electricityProductionBySource &&
+                          <ElectricityProductionBySource/>
+                      }
+                  </>
+              }
               {theme === GesEmissions &&
                   <>
                       {indicator === bySector &&

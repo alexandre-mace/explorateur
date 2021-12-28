@@ -1,5 +1,5 @@
 const handleYearChange = (value, setYear) => {
-    if (value.target.innerText !== undefined) {
+    if (value.target.innerText !== undefined && value.target.innerText !== '') {
         setYear(value.target.innerText)
     }
 }
