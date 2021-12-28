@@ -14,24 +14,24 @@ import ChartTypes from "../ChartTypes";
 import sortToLowest from "../../utils/sortToLowest";
 import ChartTitle from "../ChartTitle";
 import ChartSources from "../ChartSources";
-import getPrimaryDirectEnergyConsumptionBySource from "../../data/adapter/getPrimaryDirectEnergyConsumptionBySource";
+import getFinalConsumptionBySource from "../../data/adapter/getFinalConsumptionBySource";
 
 seriesLabel(Highcharts);
 highcharts3d(Highcharts);
 
-const PrimaryDirectEnergyConsumptionBySource = (props) => {
+const FinalConsumptionBySource = (props) => {
     const [dataset, setDataset] = React.useState(null)
-    const [year, setYear] = React.useState('2020')
-    const [country, setCountry] = React.useState('World')
+    const [year, setYear] = React.useState('2019')
+    const [country, setCountry] = React.useState('France')
     const [chart, setChart] = React.useState('area')
     const {width} = useWindowDimensions();
 
     React.useLayoutEffect(() => {
-        setDataset(getPrimaryDirectEnergyConsumptionBySource(country, year))
+        setDataset(getFinalConsumptionBySource(country, year))
     }, [])
 
     React.useEffect(() => {
-        setDataset(getPrimaryDirectEnergyConsumptionBySource(country, (chart !== 'pie' ? null : year)))
+        setDataset(getFinalConsumptionBySource(country, (chart !== 'pie' ? null : year)))
     }, [year, country, chart])
 
     return (
@@ -102,7 +102,7 @@ const PrimaryDirectEnergyConsumptionBySource = (props) => {
                                             },
                                             yAxis: {
                                                 title: {
-                                                    text: 'Twh'
+                                                    text: 'TJ'
                                                 },
                                             },
                                         },
@@ -112,12 +112,12 @@ const PrimaryDirectEnergyConsumptionBySource = (props) => {
                             }
                         </div>
                     </div>
-                    <ChartTitle title={"Consommation directe d'énergie primaire par source"}/>
-                    <ChartSources sourcesName={"OWID"} sourcesLink={"https://ourworldindata.org/grapher/primary-energy-consumption-by-source"}/>
+                    <ChartTitle title={"Consommation d'énergie finale par source"}/>
+                    <ChartSources sourcesName={"IEA"} sourcesLink={"https://www.iea.org/data-and-statistics/data-browser?country=WORLD&fuel=Energy%20consumption&indicator=TFCbySource"}/>
                 </>
             }
         </>
     )
 }
 
-export default PrimaryDirectEnergyConsumptionBySource;
+export default FinalConsumptionBySource;

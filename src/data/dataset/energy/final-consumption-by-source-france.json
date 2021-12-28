@@ -1,0 +1,79 @@
+[
+  {
+    "Year": 1990,
+    "Coal": 262569,
+    "Oil products": 3145272,
+    "Natural gas": 1001737,
+    "Wind, solar, etc.": 5639,
+    "Biofuels and waste": 404560,
+    "Electricity": 1088028,
+    "Heat": 19997,
+    "Units": "TJ"
+  },
+  {
+    "Year": 1995,
+    "Coal": 184090,
+    "Oil products": 3302597,
+    "Natural gas": 1171532,
+    "Wind, solar, etc.": 6559,
+    "Biofuels and waste": 407905,
+    "Electricity": 1234260,
+    "Heat": 23048,
+    "Units": "TJ"
+  },
+  {
+    "Year": 2000,
+    "Coal": 141307,
+    "Oil products": 3370780,
+    "Natural gas": 1345935,
+    "Wind, solar, etc.": 6141,
+    "Biofuels and waste": 375870,
+    "Electricity": 1385651,
+    "Heat": 135470,
+    "Units": "TJ"
+  },
+  {
+    "Year": 2005,
+    "Coal": 126634,
+    "Oil products": 3357966,
+    "Natural gas": 1446771,
+    "Wind, solar, etc.": 1945,
+    "Biofuels and waste": 385361,
+    "Electricity": 1521976,
+    "Heat": 174304,
+    "Units": "TJ"
+  },
+  {
+    "Year": 2010,
+    "Coal": 112878,
+    "Oil products": 2984056,
+    "Natural gas": 1381556,
+    "Wind, solar, etc.": 3604,
+    "Biofuels and waste": 489056,
+    "Electricity": 1598720,
+    "Heat": 119306,
+    "Units": "TJ"
+  },
+  {
+    "Year": 2015,
+    "Coal": 95437,
+    "Oil products": 2902231,
+    "Natural gas": 1247416,
+    "Wind, solar, etc.": 8397,
+    "Biofuels and waste": 489218,
+    "Electricity": 1566114,
+    "Heat": 138830,
+    "Units": "TJ"
+  },
+  {
+    "Year": 2019,
+    "Coal": 51034,
+    "Oil products": 2760915,
+    "Natural gas": 1233677,
+    "Wind, solar, etc.": 9524,
+    "Biofuels and waste": 517067,
+    "Electricity": 1555012,
+    "Heat": 156054,
+    "Units": "TJ"
+  }
+]

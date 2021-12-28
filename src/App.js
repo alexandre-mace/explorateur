@@ -20,6 +20,7 @@ import SeaLevelRise from "./components/charts/SeaLevelRise";
 import OceanPh from "./components/charts/OceanPh";
 import IceSheetsMass from "./components/charts/IceSheetsMass";
 import PrimaryDirectEnergyConsumptionBySource from "./components/charts/PrimaryDirectEnergyConsumptionBySource";
+import FinalConsumptionBySource from "./components/charts/FinalConsumptionBySource";
 const co2AtmosphericConcentration = '🪐 Concentration atmosphérique de CO2'
 const GesEmissions = '🫕 Émissions de GES (Gaz à effet de serre)'
 const Co2Emissions = '🏭 Émissions de CO2'
@@ -42,12 +43,13 @@ const iceSheetsMass = '🧊 Modification de la masse des calottes glaciaires'
 const Energy = '🧃 Énergie'
 const Electricity = '⚡ Électricité'
 const directPrimaryConsumptionBySource = 'Énergie primaire (directe) par source'
+const finalConsumptionBySource = 'Énergie final par source'
 const electricityProductionBySource = 'Production d\'électricité par source'
 
 const themes = [
     {
         'name': Energy,
-        'indicators': [directPrimaryConsumptionBySource]
+        'indicators': [directPrimaryConsumptionBySource, finalConsumptionBySource]
     },
     {
         'name': Electricity,
@@ -84,13 +86,9 @@ let customTheme = createTheme({
     },
 });
 
-let missingCharts = [
-    'Per capita CO₂ emissions by fuel type, 2019', // by fuel type
-]
-
 function App() {
-  const [theme, setTheme] = React.useState(GesEmissions)
-  const [indicator, setIndicator] = React.useState(bySector)
+  const [theme, setTheme] = React.useState(Energy)
+  const [indicator, setIndicator] = React.useState(directPrimaryConsumptionBySource)
 
     React.useLayoutEffect(() => {
         setIndicator(themes.find(datum => datum.name === theme).indicators[0])
@@ -160,6 +158,9 @@ function App() {
                   <>
                       {indicator === directPrimaryConsumptionBySource &&
                           <PrimaryDirectEnergyConsumptionBySource/>
+                      }
+                      {indicator === finalConsumptionBySource &&
+                          <FinalConsumptionBySource/>
                       }
                   </>
               }
