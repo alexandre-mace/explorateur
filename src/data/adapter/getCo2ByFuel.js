@@ -1,4 +1,4 @@
-import data from "../dataset/co2/co2-by-source.json";
+import data from "../dataset/co2/co2-by-source-1830.json";
 import countries from "i18n-iso-countries";
 countries.registerLocale(require("i18n-iso-countries/langs/en.json"));
 countries.registerLocale(require("i18n-iso-countries/langs/fr.json"));
