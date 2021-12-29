@@ -136,7 +136,7 @@ function App() {
                           />
                       </FormControl>
                   </div>
-                  <div className="col-12 col-md-6 pr-md-0 pl-md-2">
+                  <div className="col-12 col-md-6 pr-md-0 pl-md-2 mt-3 mt-md-0">
                       <FormControl sx={{ width: '100%', background: 'white' }}>
                           <Autocomplete
                               disablePortal
