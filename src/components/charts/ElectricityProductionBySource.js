@@ -47,6 +47,7 @@ const ElectricityProductionBySource = (props) => {
                         <div className="col-auto chart-related-settings">
                             <FormControl sx={{ minWidth: 200, maxWidth: 400, marginRight: 1 }}>
                                 <Autocomplete
+                                    disableClearable
                                     disablePortal
                                     id="country-box"
                                     options={dataset.countries}
@@ -60,6 +61,7 @@ const ElectricityProductionBySource = (props) => {
                             {chart !== 'area' &&
                                 <FormControl sx={{ minWidth: 200, maxWidth: 400, marginLeft: 1 }}>
                                     <Autocomplete
+                                        disableClearable
                                         disablePortal
                                         id="year-box"
                                         options={dataset.years}

@@ -75,6 +75,7 @@ const GhgEmissionsPerCapita = (props) => {
                             {chart !== 'line' &&
                                 <FormControl sx={{ minWidth: 200, maxWidth: 400, marginLeft: 1 }}>
                                     <Autocomplete
+                                        disableClearable
                                         disablePortal
                                         id="year-box"
                                         options={dataset.years}

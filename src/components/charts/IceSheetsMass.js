@@ -40,6 +40,7 @@ const IceSheetsMass = (props) => {
                             <FormControl sx={{ minWidth: 200, maxWidth: 400, marginLeft: 1 }}>
                                 <Autocomplete
                                     disablePortal
+                                    disableClearable
                                     id="glacier-box"
                                     options={['Groenland', 'Antarctique']}
                                     value={glacier}

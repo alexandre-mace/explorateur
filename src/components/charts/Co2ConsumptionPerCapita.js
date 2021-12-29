@@ -76,6 +76,7 @@ const Co2ConsumptionPerCapita = (props) => {
                                 <FormControl sx={{ minWidth: 200, maxWidth: 400, marginLeft: 1 }}>
                                     <Autocomplete
                                         disablePortal
+                                        disableClearable
                                         id="year-box"
                                         options={dataset.years}
                                         value={year}

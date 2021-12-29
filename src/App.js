@@ -139,6 +139,7 @@ function App() {
                   <div className="col-12 col-md-6 pr-md-0 pl-md-2 mt-3 mt-md-0">
                       <FormControl sx={{ width: '100%', background: 'white' }}>
                           <Autocomplete
+                              disableClearable
                               disablePortal
                               id="country-box"
                               options={themes.find(datum => datum.name === theme).indicators}
