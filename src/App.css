@@ -27,7 +27,7 @@ h1 {
 .chart-wrapper {
     background: white;
     border-radius: 10px;
-    filter: drop-shadow(0 0 0.4rem rgba(100, 120, 255, .4));
+    filter: drop-shadow(0 0 0.2rem rgba(100, 120, 255, .4));
     min-height: 600px;
 }
 
