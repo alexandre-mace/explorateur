@@ -1,4 +1,3 @@
-import seriesLabel from "highcharts/modules/series-label";
 import formatLabels from "../utils/formatLabels";
 
 const colors = [
@@ -98,7 +97,7 @@ const mobilePieOptions = {
                 },
                 enabled: false,
                 formatter: function () {
-                    return '<b>{formatLabels(this.name)}</b>: {this.percentage:.1f} %'
+                    return '<b>' + formatLabels(this.key) + '</b>: ' + this.percentage.toFixed(0) + ' %'
                 },
             },
             legend: {
@@ -215,7 +214,10 @@ const areaOptions = {
                 style: {
                     fontWeight: 500,
                     color: 'black'
-                }
+                },
+                formatter: function () {
+                    return formatLabels(this.name)
+                },
             }
         },
         series: {
@@ -278,7 +280,10 @@ const lineOptions = {
                 style: {
                     fontWeight: 500,
                     color: 'black'
-                }
+                },
+                formatter: function () {
+                    return formatLabels(this.name)
+                },
             }
         },
         series: {
@@ -316,7 +321,7 @@ const mobileLineOptions = {
     },
 };
 
-const packedBubleOptions = {
+const packedBubbleOptions = {
     colors: colors,
     chart: {
         plotBackgroundColor: null,
@@ -413,7 +418,7 @@ const getOptions = (chart, width) => {
         return width > 500 ? lineOptions : mobileLineOptions
     }
     if (chart === 'packedbubble') {
-        return width > 500 ? packedBubleOptions : mobilePackedBubbleOptions
+        return width > 500 ? packedBubbleOptions : mobilePackedBubbleOptions
     }
 }
 
