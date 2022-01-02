@@ -1,3 +1,6 @@
+import seriesLabel from "highcharts/modules/series-label";
+import formatLabels from "../utils/formatLabels";
+
 const colors = [
     '#8EF6AF',
     '#40C1B8',
@@ -47,7 +50,9 @@ const pieOptions = {
                     fontWeight: "normal"
                 },
                 enabled: true,
-                format: '<b>{point.name}</b>: {point.percentage:.1f} %'
+                formatter: function () {
+                    return '<b>' + formatLabels(this.key) + '</b>: ' + this.percentage.toFixed(0) + ' %'
+                },
             }
         }
     },
@@ -92,7 +97,9 @@ const mobilePieOptions = {
                     fontWeight: "normal"
                 },
                 enabled: false,
-                format: '<b>{point.name}</b>: {point.percentage:.1f} %'
+                formatter: function () {
+                    return '<b>{formatLabels(this.name)}</b>: {this.percentage:.1f} %'
+                },
             },
             legend: {
                 align: 'center',
@@ -137,6 +144,9 @@ const stackedAreaOptions = {
             label: {
                 enabled: true,
                 onArea: true,
+                formatter: function () {
+                   return formatLabels(this.name)
+                },
                 style: {
                     fontWeight: 500,
                     color: 'black'

@@ -15,13 +15,16 @@ import sortToLowest from "../../utils/sortToLowest";
 import ChartTitle from "../ChartTitle";
 import ChartSources from "../ChartSources";
 import getPrimaryDirectEnergyConsumptionBySource from "../../data/adapter/getPrimaryDirectEnergyConsumptionBySource";
+import countries from "i18n-iso-countries";
+countries.registerLocale(require("i18n-iso-countries/langs/en.json"));
+countries.registerLocale(require("i18n-iso-countries/langs/fr.json"));
 
 seriesLabel(Highcharts);
 highcharts3d(Highcharts);
 
 const PrimaryDirectEnergyConsumptionBySource = (props) => {
     const [dataset, setDataset] = React.useState(null)
-    const [year, setYear] = React.useState('2020')
+    const [year, setYear] = React.useState(2020)
     const [country, setCountry] = React.useState('World')
     const [chart, setChart] = React.useState('area')
     const {width} = useWindowDimensions();
@@ -33,6 +36,18 @@ const PrimaryDirectEnergyConsumptionBySource = (props) => {
     React.useEffect(() => {
         setDataset(getPrimaryDirectEnergyConsumptionBySource(country, (chart !== 'pie' ? null : year)))
     }, [year, country, chart])
+
+    const getCountryLabel = (country) => {
+        if (country === 'World') {
+            return 'Monde'
+        }
+
+        if (countries.getName(countries.getAlpha3Code(country, 'en'), 'fr') === undefined) {
+            return country
+        }
+
+        return countries.getName(countries.getAlpha3Code(country, 'en'), 'fr')
+    }
 
     return (
         <>
@@ -49,10 +64,11 @@ const PrimaryDirectEnergyConsumptionBySource = (props) => {
                                     disableClearable
                                     disablePortal
                                     id="country-box"
-                                    options={dataset.countries}
+                                    options={dataset.countries.sort((a, b) => -getCountryLabel(b).charAt(0).localeCompare(getCountryLabel(a).charAt(0)))}
                                     color={"primary"}
                                     value={country}
-                                    onChange={(value) => handleCountryChange(value, setCountry)}
+                                    getOptionLabel={(option) => getCountryLabel(option)}
+                                    onChange={(event, value) => handleCountryChange(value, setCountry)}
                                     sx={{ width: 250 }}
                                     renderInput={(params) => <TextField {...params} label={"Pays"} />}
                                 />
@@ -65,6 +81,7 @@ const PrimaryDirectEnergyConsumptionBySource = (props) => {
                                         id="year-box"
                                         options={dataset.years}
                                         value={year}
+                                        getOptionLabel={(option) => option.toString()}
                                         onChange={(value) => handleYearChange(value, setYear)}
                                         sx={{ width: 250 }}
                                         renderInput={(params) => <TextField {...params} label={"Année"} />}

@@ -1,7 +1,4 @@
 import data from "../dataset/energy/primary-direct-energy-consumption-by-source.json";
-import countries from "i18n-iso-countries";
-countries.registerLocale(require("i18n-iso-countries/langs/en.json"));
-countries.registerLocale(require("i18n-iso-countries/langs/fr.json"));
 
 const getPrimaryDirectEnergyConsumptionBySource = (country, year) => {
     let chartCountries = Array.from(
@@ -28,7 +25,7 @@ const getPrimaryDirectEnergyConsumptionBySource = (country, year) => {
         return {
             countries: chartCountries,
             data: chartData,
-            years: countryData.map(datum => datum.Year)
+            years: data.filter(datum => country === datum.Entity).map(datum => datum.Year).reverse()
         }
     }
 

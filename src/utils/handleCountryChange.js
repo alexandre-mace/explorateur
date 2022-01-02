@@ -1,7 +1,5 @@
 const handleCountryChange = (value, setCountry) => {
-    if (value.target.innerText !== undefined && value.target.innerText !== '') {
-        setCountry(value.target.innerText)
-    }
+    setCountry(value)
 }
 
 export default handleCountryChange
