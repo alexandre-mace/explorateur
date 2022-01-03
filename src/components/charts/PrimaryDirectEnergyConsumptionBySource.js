@@ -16,6 +16,7 @@ import ChartTitle from "../ChartTitle";
 import ChartSources from "../ChartSources";
 import getPrimaryDirectEnergyConsumptionBySource from "../../data/adapter/getPrimaryDirectEnergyConsumptionBySource";
 import countries from "i18n-iso-countries";
+import getCountryLabel from "../../utils/getCountryLabel";
 countries.registerLocale(require("i18n-iso-countries/langs/en.json"));
 countries.registerLocale(require("i18n-iso-countries/langs/fr.json"));
 
@@ -36,18 +37,6 @@ const PrimaryDirectEnergyConsumptionBySource = (props) => {
     React.useEffect(() => {
         setDataset(getPrimaryDirectEnergyConsumptionBySource(country, (chart !== 'pie' ? null : year)))
     }, [year, country, chart])
-
-    const getCountryLabel = (country) => {
-        if (country === 'World') {
-            return 'Monde'
-        }
-
-        if (countries.getName(countries.getAlpha3Code(country, 'en'), 'fr') === undefined) {
-            return country
-        }
-
-        return countries.getName(countries.getAlpha3Code(country, 'en'), 'fr')
-    }
 
     return (
         <>

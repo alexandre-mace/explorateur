@@ -44,9 +44,9 @@ const IceSheetsMass = (props) => {
                                     id="glacier-box"
                                     options={['Groenland', 'Antarctique']}
                                     value={glacier}
-                                    onChange={(value) => {
-                                        if (value.target.innerText !== undefined) {
-                                            setGlacier(value.target.innerText)
+                                    onChange={(event, value) => {
+                                        if (value !== undefined) {
+                                            setGlacier(value)
                                         }}
                                     }
                                     sx={{ width: 250 }}

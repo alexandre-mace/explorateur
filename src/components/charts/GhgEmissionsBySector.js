@@ -52,7 +52,7 @@ const GhgEmissionsBySector = (props) => {
                                     options={dataset.countries}
                                     color={"primary"}
                                     value={country}
-                                    onChange={(value) => handleCountryChange(value, setCountry)}
+                                    onChange={(event, value) => handleCountryChange(value, setCountry)}
                                     sx={{ width: 250 }}
                                     renderInput={(params) => <TextField {...params} label={"Pays"} />}
                                 />

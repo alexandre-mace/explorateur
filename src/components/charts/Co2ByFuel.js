@@ -15,6 +15,7 @@ import ChartTitle from "../ChartTitle";
 import ChartSources from "../ChartSources";
 import sortToLowest from "../../utils/sortToLowest";
 import ChartTypes from "../ChartTypes";
+import getCountryLabel from "../../utils/getCountryLabel";
 
 seriesLabel(Highcharts);
 highcharts3d(Highcharts);
@@ -22,7 +23,7 @@ highcharts3d(Highcharts);
 const Co2ByFuel = (props) => {
     const [dataset, setDataset] = React.useState(null)
     const [year, setYear] = React.useState('2020')
-    const [country, setCountry] = React.useState('Monde')
+    const [country, setCountry] = React.useState('World')
     const [chart, setChart] = React.useState('area')
     const {width} = useWindowDimensions();
 
@@ -49,10 +50,11 @@ const Co2ByFuel = (props) => {
                                     disableClearable
                                     disablePortal
                                     id="country-box"
-                                    options={dataset.countries}
+                                    options={dataset.countries.sort((a, b) => -getCountryLabel(b).charAt(0).localeCompare(getCountryLabel(a).charAt(0)))}
                                     color={"primary"}
                                     value={country}
-                                    onChange={(value) => handleCountryChange(value, setCountry)}
+                                    getOptionLabel={(option) => getCountryLabel(option)}
+                                    onChange={(event, value) => handleCountryChange(value, setCountry)}
                                     sx={{ width: 250 }}
                                     renderInput={(params) => <TextField {...params} label={"Pays"} />}
                                 />
@@ -65,6 +67,7 @@ const Co2ByFuel = (props) => {
                                         id="year-box"
                                         options={dataset.years}
                                         value={year}
+                                        getOptionLabel={(option) => option.toString()}
                                         onChange={(value) => handleYearChange(value, setYear)}
                                         sx={{ width: 250 }}
                                         renderInput={(params) => <TextField {...params} label={"Année"} />}

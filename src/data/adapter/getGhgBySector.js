@@ -1,5 +1,6 @@
 import data from "../dataset/historical_emissions.json";
 import countries from "i18n-iso-countries";
+import formatLabels from "../../utils/formatLabels";
 countries.registerLocale(require("i18n-iso-countries/langs/en.json"));
 countries.registerLocale(require("i18n-iso-countries/langs/fr.json"));
 
@@ -24,7 +25,7 @@ const getGhgBySector = (country, year) => {
             datum.Gas === "All GHG" &&
             !["Total including LUCF", "Total excluding LUCF", "Energy"].includes(datum.Sector)
         ).map(datum => ({
-             name: datum.Sector,
+             name: formatLabels(datum.Sector),
              y: datum[year.toString()]
         }))
 
@@ -44,7 +45,7 @@ const getGhgBySector = (country, year) => {
             datum.Gas === "All GHG" &&
             !["Total including LUCF", "Total excluding LUCF", "Energy"].includes(datum.Sector)
         ).map(datum => ({
-            name: datum.Sector,
+            name: formatLabels(datum.Sector),
             data: Object.keys(datum).filter(key => !isNaN(key)).map(key => datum[key])
         }))
 

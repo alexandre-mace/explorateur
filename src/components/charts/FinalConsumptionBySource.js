@@ -15,6 +15,7 @@ import sortToLowest from "../../utils/sortToLowest";
 import ChartTitle from "../ChartTitle";
 import ChartSources from "../ChartSources";
 import getFinalConsumptionBySource from "../../data/adapter/getFinalConsumptionBySource";
+import getCountryLabel from "../../utils/getCountryLabel";
 
 seriesLabel(Highcharts);
 highcharts3d(Highcharts);
@@ -49,10 +50,11 @@ const FinalConsumptionBySource = (props) => {
                                     disableClearable
                                     disablePortal
                                     id="country-box"
-                                    options={dataset.countries}
+                                    options={dataset.countries.sort((a, b) => -getCountryLabel(b).charAt(0).localeCompare(getCountryLabel(a).charAt(0)))}
                                     color={"primary"}
                                     value={country}
-                                    onChange={(value) => handleCountryChange(value, setCountry)}
+                                    getOptionLabel={(option) => getCountryLabel(option)}
+                                    onChange={(event, value) => handleCountryChange(value, setCountry)}
                                     sx={{ width: 250 }}
                                     renderInput={(params) => <TextField {...params} label={"Pays"} />}
                                 />
@@ -65,6 +67,7 @@ const FinalConsumptionBySource = (props) => {
                                         id="year-box"
                                         options={dataset.years}
                                         value={year}
+                                        getOptionLabel={(option) => option.toString()}
                                         onChange={(value) => handleYearChange(value, setYear)}
                                         sx={{ width: 250 }}
                                         renderInput={(params) => <TextField {...params} label={"Année"} />}

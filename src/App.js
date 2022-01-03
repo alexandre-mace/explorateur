@@ -90,10 +90,6 @@ function App() {
   const [theme, setTheme] = React.useState(Energy)
   const [indicator, setIndicator] = React.useState(directPrimaryConsumptionBySource)
 
-    React.useLayoutEffect(() => {
-        setIndicator(themes.find(datum => datum.name === theme).indicators[0])
-    }, [theme])
-
   return (
       <ThemeProvider theme={customTheme}>
           <header className="container header">
@@ -130,7 +126,10 @@ function App() {
                               id="year-box"
                               options={themes.map(theme => theme.name)}
                               value={theme}
-                              onChange={(value) => setTheme(value.target.innerText)}
+                              onChange={(event, value) => {
+                                  setTheme(value)
+                                  setIndicator(themes.find(datum => datum.name === value).indicators[0])
+                              }}
                               sx={{ width: "100%" }}
                               renderInput={(params) => <TextField {...params} label="Thème" />}
                           />
@@ -146,7 +145,7 @@ function App() {
                               color={"primary"}
                               value={indicator}
                               sx={{ width: "100%" }}
-                              onChange={(value) => setIndicator(value.target.innerText)}
+                              onChange={(event, value) => setIndicator(value)}
                               renderInput={(params) => <TextField {...params} label="Indicateur" />}
                           />
                       </FormControl>
