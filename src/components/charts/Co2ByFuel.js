@@ -45,7 +45,7 @@ const Co2ByFuel = (props) => {
                 <>
                     <div className="row pb-4 pt-2 justify-content-between">
                         <div className="col-auto chart-related-settings">
-                            <FormControl sx={{ minWidth: 200, maxWidth: 400, marginRight: 1 }}>
+                            <FormControl sx={{ minWidth: 200, maxWidth: 400, marginRight: 1, marginBottom: 1 }}>
                                 <Autocomplete
                                     disableClearable
                                     disablePortal

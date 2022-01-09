@@ -183,6 +183,12 @@ const mobileStackedAreaOptions = {
     plotOptions: {
         area: {
             stacking: 'normal',
+            lineColor: '#666666',
+            lineWidth: 1,
+            marker: {
+                enabled: false,
+                symbol: 'circle',
+            },
         },
         series: {
             animation: {
@@ -418,7 +424,7 @@ const getOptions = (chart, width) => {
         return width > 500 ? pieOptions : mobilePieOptions
     }
     if (chart === 'area') {
-        return width > 500 ? stackedAreaOptions : mobileStackedAreaOptions
+        return width > 500 ? stackedAreaOptions : stackedAreaOptions
     }
     if (chart === 'line') {
         return width > 500 ? lineOptions : mobileLineOptions
