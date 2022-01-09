@@ -38,7 +38,7 @@ const Co2AtmosphericConcentration = (props) => {
                     </div>
 
                     <div className="row">
-                        <div className="col">
+                        <div className="col px-0">
                             <HighchartsReact
                                 highcharts={Highcharts}
                                 options={{

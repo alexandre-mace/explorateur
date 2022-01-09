@@ -84,7 +84,7 @@ const FinalConsumptionBySource = (props) => {
                     </div>
 
                     <div className="row">
-                        <div className="col">
+                        <div className="col px-0">
                             {chart === 'pie' &&
                                 <HighchartsReact
                                     highcharts={Highcharts}
