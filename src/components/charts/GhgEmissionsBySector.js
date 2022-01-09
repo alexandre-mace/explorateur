@@ -58,7 +58,10 @@ const GhgEmissionsBySector = (props) => {
                                 />
                             </FormControl>
                             {chart !== 'area' &&
-                                <FormControl sx={{ minWidth: 200, maxWidth: 400, marginLeft: 1 }}>
+                                <FormControl sx={{ minWidth: 200, maxWidth: 400, marginLeft: {
+                                    xs: 0,
+                                    md: 1
+                                } }}>
                                     <Autocomplete
                                         disableClearable
                                         disablePortal

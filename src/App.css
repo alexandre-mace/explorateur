@@ -2,6 +2,7 @@ body {
     padding: 15px;
     background: #f3f3ff;
     font-weight: 500;
+    overflow-x: hidden;
 }
 body * {
     font-family: 'Satoshi', sans-serif !important;
@@ -29,6 +30,12 @@ h1 {
     border-radius: 10px;
     filter: drop-shadow(0 0 0.2rem rgba(100, 120, 255, .4));
     min-height: 600px;
+}
+@media (max-width: 700px) {
+    .chart-wrapper {
+        width: 100vw;
+        transform: translateX(-15px);
+    }
 }
 
 .MuiOutlinedInput-input {
