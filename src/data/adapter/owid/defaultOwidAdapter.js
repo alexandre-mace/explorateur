@@ -12,7 +12,7 @@ const defaultOwidAdapter = (data, country, year, keyDifferentiator, countries = 
             Object.keys(countryDatum).filter(key => keyDifferentiator(key)).forEach(key => {
                 chartData.push({
                     name: formatLabels(key),
-                    y: countryDatum[key]
+                    y: parseFloat(countryDatum[key].toFixed(0))
                 })
             })
         })
@@ -35,7 +35,7 @@ const defaultOwidAdapter = (data, country, year, keyDifferentiator, countries = 
                     })
                 }
 
-                chartData.find(datum => formatLabels(datum.name) === formatLabels(key)).data.push((isNaN(parseFloat(countryDatum[key])) ? 0 : parseFloat(countryDatum[key])))
+                chartData.find(datum => formatLabels(datum.name) === formatLabels(key)).data.push((isNaN(parseFloat(countryDatum[key])) ? 0 : parseFloat(countryDatum[key].toFixed(0))))
             })
         })
 
