@@ -24,7 +24,7 @@ const GhgEmissionsByGas = (props) => {
                 y: 17.3,
             },
             {
-                name: 'Protoxyde d\'azote (CO2)',
+                name: 'Protoxyde d\'azote (N₂O)',
                 y: 6.2
             },
             {
