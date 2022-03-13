@@ -9,6 +9,7 @@ import {GhgEmissionsBySector} from "./components/async";
 import {Ch4EmissionsBySector} from "./components/async";
 import {Co2BySector} from "./components/async";
 import {ElectricityProductionBySource} from "./components/async";
+import {ElectricityConsumptionBySource} from "./components/async";
 import {GhgEmissionsBySectorPerCapita} from "./components/async";
 import {NitrousOxideBySector} from "./components/async";
 import Co2ConsumptionPerCountry from "./components/charts/Co2ConsumptionPerCountry";
@@ -45,6 +46,7 @@ const Electricity = '⚡ Électricité'
 const directPrimaryConsumptionBySource = 'Énergie primaire (directe) par source'
 const finalConsumptionBySource = 'Énergie finale par source'
 const electricityProductionBySource = 'Production d\'électricité par source'
+const electricityConsumptionBySource = 'Consommation d\'électricité par source'
 
 const themes = [
     {
@@ -53,7 +55,7 @@ const themes = [
     },
     {
         'name': Electricity,
-        'indicators': [electricityProductionBySource]
+        'indicators': [electricityProductionBySource, electricityConsumptionBySource]
     },
     {
         'name': GesEmissions,
@@ -123,7 +125,7 @@ function App() {
                       <FormControl sx={{ width: '100%', background: 'white' }}>
                           <Autocomplete
                               disablePortal
-                              id="year-box"
+                              id="theme-box"
                               options={themes.map(theme => theme.name)}
                               value={theme}
                               onChange={(event, value) => {
@@ -140,7 +142,7 @@ function App() {
                           <Autocomplete
                               disableClearable
                               disablePortal
-                              id="country-box"
+                              id="indicator-box"
                               options={themes.find(datum => datum.name === theme).indicators}
                               color={"primary"}
                               value={indicator}
@@ -168,6 +170,9 @@ function App() {
                   <>
                       {indicator === electricityProductionBySource &&
                           <ElectricityProductionBySource/>
+                      }
+                      {indicator === electricityConsumptionBySource &&
+                          <ElectricityConsumptionBySource/>
                       }
                   </>
               }

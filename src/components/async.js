@@ -23,6 +23,9 @@ export const Co2BySector = loadable(() => import("../components/charts/Co2BySect
 export const ElectricityProductionBySource = loadable(() => import("../components/charts/ElectricityProductionBySource"), {
     fallback: Loading(),
 })
+export const ElectricityConsumptionBySource = loadable(() => import("../components/charts/ElectricityConsumptionBySource"), {
+    fallback: Loading(),
+})
 export const GhgEmissionsBySectorPerCapita = loadable(() => import("../components/charts/GhgEmissionsBySectorPerCapita"), {
     fallback: Loading(),
 })

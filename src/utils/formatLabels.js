@@ -11,6 +11,7 @@ const formatLabels = (label) => {
         .replace(' (CAIT, 2020)', '')
         .replace('Annual CO2 emissions from ', '')
         .replace(' (zero filled)', '')
+        .replace(' electricity per capita (kWh)', '')
 
     switch (label) {
         case 'Oil':
