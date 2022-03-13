@@ -2,7 +2,7 @@ import formatLabels from "../../../utils/formatLabels";
 
 const defaultOwidAdapter = (data, country, year, keyDifferentiator, countries = null) => {
     let chartCountries = Array.from(new Set(data.map(datum => datum.Entity)))
-    const countryData = countries ? data : data.filter(datum => country === datum.Entity)
+    let countryData = countries ? data : data.filter(datum => country === datum.Entity)
 
     if (country && year) {
         const yearCountryData = countryData.filter(datum => parseInt(datum.Year) === parseInt(year))
@@ -26,6 +26,11 @@ const defaultOwidAdapter = (data, country, year, keyDifferentiator, countries = 
 
     if (country) {
         let chartData = []
+        if (countryData[0] && typeof countryData[0].Year !== 'undefined') {
+            countryData = countryData.sort((a, b) => {
+                return a.Year - b.Year;
+            })
+        }
         countryData.forEach(countryDatum => {
             Object.keys(countryDatum).filter(key => keyDifferentiator(key)).forEach(key => {
                 if (!chartData.find(datum => formatLabels(datum.name) === formatLabels(key))) {
