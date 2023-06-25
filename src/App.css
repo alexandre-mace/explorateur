@@ -28,8 +28,12 @@ h1 {
 .chart-wrapper {
     background: white;
     border-radius: 10px;
-    filter: drop-shadow(0 0 0.2rem rgba(100, 120, 255, .4));
+    box-shadow: 0 0 3px .2rem rgba(100, 120, 255, .2);
     min-height: 600px;
+    transition: all .3s ease-in;
+}
+.chart-wrapper:hover {
+    box-shadow: 0 0 3px .2rem rgba(100, 120, 255, .4);
 }
 @media (max-width: 700px) {
     .chart-wrapper {
